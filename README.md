@@ -5,7 +5,9 @@ GAN(manuscript-realistic photos generation)-review
 
 .1 pix2pix
 project(tensorflow): https://github.com/gaohaidong/pix2pix-tensorflow
+
 demo:https://affinelayer.com/pixsrv/
+
 datasets:
 A. facades: 400 images, 31M
 
