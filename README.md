@@ -5,14 +5,16 @@ GAN(manuscript-realistic photos generation)-review
 
 .1 pix2pix
 project(tensorflow): https://github.com/gaohaidong/pix2pix-tensorflow
-
 demo:https://affinelayer.com/pixsrv/
-
 datasets:
 A. facades: 400 images, 31M
+
 B. cityscapes: 2975 images, 113M
+
 C. maps: 1096 images, 246M
-D. edges2shoes: 50k images, 2.2GB	
+
+D. edges2shoes: 50k images, 2.2GB
+
 E. edges2handbaggs: 137k Amazon Handbag images, 8.6GB
 
 
