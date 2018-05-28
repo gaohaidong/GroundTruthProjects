@@ -14,15 +14,14 @@ D. edges2shoes: 50k images, 2.2GB \
 E. edges2handbaggs: 137k Amazon Handbag images, 8.6GB \
 
 .2 pix2pixHD \
-project(pytorch): https://github.com/gaohaidong/pix2pixHD
+project(pytorch): https://github.com/gaohaidong/pix2pixHD \
 
-.3 CycleGAN
+.3 CycleGAN \
 
-.4 CycleGAN and pix2pix
-project: https://github.com/gaohaidong/pytorch-CycleGAN-and-pix2pix
+.4 CycleGAN and pix2pix \
+project: https://github.com/gaohaidong/pytorch-CycleGAN-and-pix2pix \
 
-
-.5 SIMS (CVPR2018)
-projects(tensorflow):https://github.com/gaohaidong/SIMS
+.5 SIMS (CVPR2018) \
+projects(tensorflow):https://github.com/gaohaidong/SIMS \
 
 
