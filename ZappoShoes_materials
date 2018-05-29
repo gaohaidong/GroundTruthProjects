@@ -1,941 +1,941 @@
-Leather;Silk	7
+Leather	15230
+Suede	4091
+Synthetic	3718
+Mesh;Synthetic	1319
+Full-grain leather	1241
 Canvas	1167
-Felt;Leather;Rubber;Suede	1
-Velvet	41
-Nubuck;Synthetic	59
-Distressed Leather;Leather	1
-Lace;Leather;Suede	17
-Lace;Nylon;Rubber;Ripstop;Synthetic	5
-Cordura;Felt;Nylon	1
-Jute;Leather	11
-Nubuck;Nylon;Suede	1
-Canvas;Cotton;Polyester	1
-Nylon;Rubber;Shearling;Suede	2
-Canvas;Denim;Rubber	1
-Silk;Synthetic	1
-Nubuck;Nylon;Synthetic	3
-Faux Leather;Leather;Mesh	13
-Faux Leather;Microfiber	1
-Shearling;Suede	39
+Patent Leather	1129
+Leather;Rubber	1118
+Leather;Suede	1112
+Mesh;Rubber;Synthetic	998
+Rubber	842
+Faux Leather	643
+Leather;Synthetic	579
+Leather;Nubuck	526
+Satin	508
+Mesh	397
+Leather;Mesh	334
+Nubuck	325
+Faux Leather;Synthetic	305
+Rubber;Synthetic	284
+Nylon	272
+Mesh;Suede	232
+Leather;Patent Leather	214
+Full-grain leather;Leather	209
 Mesh;Rubber	200
-Microfiber;Mesh	34
-Leather;Mesh;Nylon;Rubber;Suede;EVA	1
+Canvas;Suede	192
+Wool	185
+Leather;Nappa	181
+Canvas;Rubber	171
+Sheepskin;Suede	170
+Sheepskin	167
+Leather;Rubber;Suede	157
+Suede;Synthetic	148
+Hair Calf	137
+Canvas;Cotton	134
+Nylon;Suede	133
+Leather;Mesh;Rubber	129
+Rubber;Suede	118
+Lace;Leather;Rubber	116
+Mesh;Nylon;Synthetic	115
+Canvas;Leather	104
+Leather;Nubuck;Suede	102
+Cotton	99
+Leather;Satin	94
+Leather;Nubuck;Rubber	94
+Leather;Rubber;Synthetic	92
+Leather;Mesh;Rubber;Synthetic	90
+Hair Calf;Leather	88
+Nylon;Synthetic	87
+Full-grain leather;Suede	82
+Lace;Leather;Synthetic	81
+Nylon;Rubber	81
+Fleece	80
+Patent Leather;Synthetic	79
+Faux Leather;Mesh;Synthetic	78
+Leather;Nylon	75
 Faux Fur;Suede	73
-Canvas;Hemp;Rubber;Suede	1
-Leather;Rubber;Shearling;Sheepskin;Suede	1
+Faux Fur	73
+Leather;Mesh;Synthetic	70
+Terry	70
+Microfiber	67
+Leather;Suede;Synthetic	67
+Full-grain leather;Leather;Rubber	66
+Canvas;Lace;Rubber	65
+Mesh;Rubber;Suede	64
+Leather;Faux Fur	64
+Leather;Nylon;Rubber	63
+Lace;Leather	61
+Patent Leather;Suede	60
+Nubuck;Synthetic	59
+Canvas;Cotton;Leather;Rubber;Suede	51
+Leather;Mesh;Nylon	51
+EVA	49
+Felt;Wool	49
+Lace;Leather;Rubber;Suede	49
+Canvas;Leather;Rubber	49
+Velour	49
+Neoprene;Rubber	48
+Nubuck;Suede	48
+Corduroy	47
+Canvas;Leather;Rubber;Suede	45
+Mesh;Polyester	45
+Polyester	44
+Velvet	41
+Nappa	41
+Fleece;Sheepskin	41
+Polyester;Rubber	41
+Leather;Nubuck;Patent Leather	40
+Leather;Mesh;Nubuck;Rubber	40
+Shearling;Suede	39
+Leather;Mesh;Rubber;Suede	39
+Faux Leather;Mesh	38
+Canvas;Leather;Suede	38
+Leather;Mesh;Nylon;Rubber	37
+Full-grain leather;Rubber	37
+Faux Fur;Synthetic	35
+Microfiber;Mesh	34
+Lace	34
+Leather;Mesh;Suede	34
+Nylon;Rubber;Suede	32
+Leather;Mesh;Nubuck	32
+Shearling	31
+Canvas;Rubber;Suede	31
+Mesh;Nubuck	31
+Deerskin;Leather	31
+Shearling;Sheepskin	30
+Mesh;Rubber;Suede;Synthetic	29
+Canvas;Synthetic	29
+Felt	28
+Microfiber;Nylon;Ripstop	28
+Nubuck;Rubber	28
+Canvas;Cotton;Rubber	28
+Microfiber;Mesh;Synthetic	28
+Mesh;Nylon	28
+Full-grain leather;Mesh	27
+Leather;Nylon;Suede	27
+Suede;Wool	27
+Cork;Leather	26
+Leather;Microfiber	25
+Leather;Neoprene;Rubber;Suede	24
+Faux Leather;Leather;Synthetic	24
+Leather;Nubuck;Synthetic	24
+Leather;Patent Leather;Suede	23
+Leather;Rubber;Shearling	23
+Cotton;Leather	23
+Leather;Shearling	23
+Microfiber;Mesh;Rubber;Synthetic	22
+Mesh;Polyester;Rubber;Synthetic	22
+Nylon;Rubber;Synthetic	22
+Microfiber;Mesh;Rubber	22
+Nubuck;Rubber;Synthetic	22
+Canvas;Full-grain leather	22
+Fleece;Polyester	22
+Mesh;Nylon;Suede	22
+Lace;Leather;Rubber;Synthetic	22
+Neoprene;Synthetic	20
+Cork	20
+Nubuck;Patent Leather	20
+Faux Leather;Rubber	20
+Leather;Neoprene	20
+Synthetic;EVA	20
+Leather;Microfiber;Rubber	20
+Neoprene	20
+Lace;Rubber;Synthetic	19
+Ripstop	19
+Leather;Sheepskin	19
+Leather;Satin;Synthetic	18
+Linen	18
+Mesh;Suede;Synthetic	18
+Leather;Nubuck;Rubber;EVA	18
+Microfiber;Rubber	18
+Leather;Rubber;EVA	18
+Lace;Leather;Suede	17
+Satin;Synthetic	17
+Faux Fur;Wool	17
+Leather;Mesh;Nubuck;Suede	17
+Leather;Nappa;Suede	17
+Full-grain leather;Leather;Mesh;Nylon;Rubber	16
+Hemp	16
+Lace;Mesh;Rubber;Synthetic	16
+Nylon;EVA	16
+Canvas;Leather;Tweed	16
+Full-grain leather;Leather;Suede	16
+Latex	16
+Nylon;Polyester;Rubber	16
+Leather;Wool	16
+Leather;Mesh;Nubuck;Rubber;Suede	15
+Leather;Nubuck;Suede;Synthetic	15
+Denim	15
+Faux Leather;Mesh;Nylon	15
+Canvas;Lace;Synthetic	15
+Felt;Latex;Wool	15
+Full-grain leather;Leather;Nylon;Rubber	15
+Latex;Synthetic	14
+Faux Leather;Rubber;Synthetic	14
+Mesh;Nubuck;Synthetic	14
+Full-grain leather;Leather;Rubber;Suede	14
+Lace;Leather;Suede;Synthetic	14
+Canvas;Cotton;Lace;Rubber	14
+Full-grain leather;Leather;Nubuck	14
+Silk	14
+Leather;Nubuck;Rubber;Suede	14
+Faux Leather;Leather;Mesh	13
+Suede;Velour	13
+Canvas;Cotton;Synthetic	13
+Nubuck;Suede;Synthetic	13
+Jute;Suede	13
+Microfiber;Nylon	13
+Fleece;Faux Fur	13
+Fleece;Suede	13
+Ripstop;Synthetic	12
+Nubuck;Nylon	12
+Polyurethane	12
+Nylon;Faux Fur	12
+Nappa;Patent Leather	12
+Canvas;Lace;Leather;Rubber	12
+Canvas;Cotton;Leather;Rubber;Suede;Synthetic	12
+Vinyl	12
+Patent Leather;Suede;Synthetic	12
+Canvas;Shearling	12
+Jute;Leather	11
 Full-grain leather;Leather;Sheepskin	11
+Canvas;Rubber;Synthetic	11
+Canvas;Cordura;Cotton;Lace;Leather;Rubber	11
+Nubuck;Rubber;Suede	11
+Canvas;Faux Leather;Mesh;Suede;Synthetic	11
+Cordura;Leather;Nubuck	11
+Leather;Nubuck;Polyester;Rubber	11
+Leather;Sheepskin;Suede	11
+Leather;Mesh;Nubuck;Rubber;Synthetic	11
+Full-grain leather;Synthetic	11
+Fleece;Nylon;Rubber	11
+Canvas;Cotton;Leather	11
+Linen;Leather;Rubber;Suede	11
+Faux Leather;Full-grain leather;Leather;Nubuck;Suede;Synthetic	11
+Leather;Mesh;Nylon;Rubber;EVA	10
+Full-grain leather;Leather;Mesh;Rubber	10
+Microfiber;Nylon;Faux Fur;Ripstop	10
+Polyester;Terry	10
+Lace;Rubber	10
+Mesh;Neoprene;Rubber;Synthetic	10
+Full-grain leather;Wool	10
+Cable Knit	10
+Faux Leather;Patent Leather;Synthetic	10
+Polyurethane;Synthetic	10
+Jute	10
+Canvas;Lace	10
+Leather;Nubuck;Nylon	10
+Leather;Nylon;Rubber;Suede	10
+Lace;Synthetic	10
+Synthetic;Velvet	10
+Cordura;Nylon;Rubber	10
+Lace;Nylon;Rubber	9
+Lace;Leather;Mesh;Rubber;Synthetic	9
+Leather;Velvet	9
+Hair Calf;Suede	9
+Deerskin	9
+Leather;Faux Fur;Suede	9
+Nylon;Ripstop	9
+Mesh;Nubuck;Rubber	9
+Fleece;Rubber	9
+Exotic;Leather;Ostrich	9
+Lace;Rubber;Suede	9
+Lace;Leather;Rubber;EVA	9
+Canvas;Leather;Nubuck;Suede	9
+Crocodile ;Exotic;Leather	9
+Leather;Mesh;Polyester	9
+Faux Leather;Jute	9
+Jute;Synthetic	9
+Full-grain leather;Leather;Nubuck;Suede	9
+Lace;Leather;Mesh;Synthetic	8
+Rubber;Vinyl	8
+Canvas;Denim	8
+Cork;Leather;Rubber;Suede;EVA	8
+Canvas;Jute	8
+Nylon;Faux Fur;Rubber	8
+Leather;Mesh;Nylon;Synthetic	8
+Leather;Shearling;Wool	8
+Mesh;Nylon;Rubber	8
+Microfiber;Rubber;Synthetic	8
+Polyester;Vinyl	8
+Cotton;Suede	8
+Mesh;Nylon;Rubber;Synthetic	8
+Leather;Nylon;Rubber;EVA	8
+Leather;Nylon;Synthetic	8
+Lace;Nylon;Rubber;Suede	8
+Leather;Mesh;Rubber;EVA	8
+Mesh;Neoprene	8
+Leather;Neoprene;Nubuck;Rubber;Synthetic	8
+Leather;Rubber;Suede;Wool	8
+Lace;Leather;Mesh;Rubber	8
+Leather;Rubber;Suede;Synthetic	8
+Faux Leather;Leather;Mesh;Rubber;Synthetic	8
+Faux Leather;Leather	8
+Full-grain leather;Leather;Nylon	8
+Leather;Mesh;Nylon;Rubber;Synthetic	8
+Full-grain leather;Nylon	8
+Crocodile ;Leather	8
+Leather;Polyester	8
+Canvas;Cotton;Jute;Rubber;Suede	8
+Fleece;Wool	8
+Cotton;Rubber;Synthetic	8
+Lace;Suede;Synthetic	8
+Microfiber;Synthetic	8
+Leather;Faux Fur;Synthetic	8
+Lace;Mesh;Rubber;Suede	8
+Leather;Silk	7
+Rubber;EVA	7
+Cotton;Synthetic	7
+Lambskin;Leather	7
+Cordura;Nylon;Rubber;Suede	7
+Canvas;Mesh;Nylon;Patent Leather;Rubber;Synthetic	7
+Lace;Leather;Mesh	7
+Canvas;Suede;Synthetic	7
+Faux Leather;Nylon	7
+Felt;Nylon;Rubber	7
+Microfiber;Mesh;Nylon;Polyester	7
+Leather;Nappa;Patent Leather;Satin	7
+Faux Leather;Neoprene;Nylon;Rubber;Synthetic	7
+Leather;Patent Leather;Synthetic	7
+Hair Calf;Leather;Rubber;EVA	7
+Rubber;Wool	7
+Rubber;Terry	7
+Rubber;Suede;Synthetic	7
+Leather;EVA	7
+Full-grain leather;Nubuck	7
+Canvas;Lace;Rubber;Suede	6
+Suede;Synthetic;Velvet	6
+Mesh;Ripstop	6
+Leather;Microfiber;Mesh;Rubber;Synthetic	6
+Cordura;Leather	6
+Satin;Suede	6
+Cotton;Rubber	6
+Fleece;Nylon	6
+Felt;Suede	6
+Canvas;Nubuck;Rubber	6
+Mesh;Nubuck;Nylon;Rubber	6
+Acrylic;Rubber;Suede;Wool	6
+Leather;Mesh;Patent Leather	6
+Shearling;Terry	6
+Canvas;Cotton;Lace;Leather;Rubber	6
+Tweed;Wool	6
+Nylon;Rubber;EVA	6
+Cotton;Denim;Mesh;Patent Leather;Suede;Tweed	6
+Microfiber;Mesh;Polyester;Rubber	6
+Leather;Shearling;Suede	6
+Mesh;Neoprene;Synthetic	6
+Leather;Patent Leather;Rubber;Satin;Synthetic	6
+Suede;Velvet	6
+Leather;Faux Fur;Rubber;Suede	6
+Satin;Terry	6
+Faux Leather;Suede	6
+Polyester;Rubber;Synthetic	6
+Canvas;Leather;Mesh;Nubuck;Patent Leather;Rubber;Suede	6
+Fleece;Synthetic	6
+Aluminum	6
+Jute;Linen;Rubber	6
+Mesh;Nubuck;Suede	6
+Faux Leather;Patent Leather	6
+Fleece;Faux Fur;Suede	6
+Canvas;Faux Leather;Leather;Suede;Synthetic	6
+Faux Leather;Rubber;Suede;Synthetic	6
+Faux Leather;Mesh;Nylon;Rubber;Synthetic	6
+Leather;Faux Fur;Rubber	6
+Mesh;Nubuck;Nylon;Rubber;Suede	6
+Lace;Nylon;Rubber;Ripstop;Synthetic	5
 Canvas;Nylon	5
+Lace;Satin	5
+Mesh;Polyester;Rubber	5
+Polyester;Synthetic	5
+Mesh;Patent Leather;Synthetic	5
+Full-grain leather;Rubber;Synthetic	5
+Faux Leather;Nubuck;Synthetic	5
+Full-grain leather;Leather;Microfiber;Rubber;Suede	5
+Hemp;Rubber	5
+Faux Fur;Rubber;Synthetic	5
+Acrylic;Faux Leather;Jute;Synthetic	5
+Canvas;Cotton;Corduroy	5
+Leather;Neoprene;Nylon;Rubber	5
+Crocodile 	5
+Cork;Synthetic	5
+Hair Calf;Patent Leather	5
+Leather;Ostrich	5
+Microfiber;Suede	5
+Fleece;Rubber;Suede	5
+Faux Leather;Faux Fur	5
+Canvas;Neoprene	5
+Full-grain leather;Leather;Nylon;Suede	5
+Full-grain leather;Leather;Patent Leather	5
+Mesh;Nubuck;Rubber;Synthetic	5
+Full-grain leather;Leather;Nubuck;Rubber	5
+Leather;Polyurethane	5
+Full-grain leather;Neoprene	5
+Full-grain leather;Mesh;Nubuck	5
+Microfiber;Suede;Synthetic	5
+Canvas;Cotton;Rubber;Suede	5
+Crocodile ;Full-grain leather;Leather;Nubuck;Patent Leather	5
+Leather;Mesh;Polyester;Rubber;Synthetic	5
+Hemp;Suede	5
+Faux Leather;Leather;Rubber;Synthetic	5
+Shearling;Synthetic	5
+Cable Knit;Wool	5
+Leather;Nubuck;Faux Fur	5
+Canvas;Nubuck	5
+Faux Leather;Leather;Suede	5
+Aluminum;Synthetic	5
+Raffia	5
+Leather;Nylon;Rubber;Suede;Synthetic	5
+Snakeskin	5
+Leather;Mesh;Satin	5
+Nappa;Suede	5
+Faux Leather;Nylon;Synthetic	5
+Polyester;Rubber;Vinyl	4
+Full-grain leather;Leather;Mesh;Rubber;Suede	4
+Full-grain leather;Nylon;Rubber	4
+Leather;Suede;EVA	4
+Leather;Microfiber;Suede;Synthetic	4
+Rubber;Satin	4
+Lace;Mesh;Rubber;Suede;Synthetic	4
+Cork;Rubber	4
+Ripstop;Suede	4
+Jute;Leather;Suede	4
+Canvas;Faux Leather;Full-grain leather;Leather;Nubuck;Synthetic	4
+Lace;Suede	4
+Canvas;Lace;Leather;Synthetic	4
+Mesh;Nylon;Patent Leather;Rubber;Ripstop;Synthetic	4
+Synthetic;Vinyl	4
+Mesh;Nylon;Polyester;Rubber	4
+Canvas;Nubuck;Suede	4
+Felt;Full-grain leather;Leather;Rubber	4
+Snakeskin;Synthetic	4
+Hair Calf;Leather;Suede	4
+Canvas;Cotton;Microfiber;Rubber	4
+Full-grain leather;Mesh;Rubber	4
+Cork;Leather;Suede	4
+Canvas;Faux Leather	4
+Corduroy;Velvet	4
+Exotic;Lace;Leather;Ostrich	4
+Lace;Mesh;Nylon;Rubber;Synthetic	4
+Canvas;Mesh	4
+Leather;Rubber;Wool	4
+Mesh;Patent Leather;Rubber	4
+Cordura;Nylon;Shearling;Synthetic	4
+Full-grain leather;Patent Leather	4
+Stingray	4
+Full-grain leather;Leather;Microfiber;Suede;Synthetic	4
+Fleece;Leather;Nylon;Polyester;Rubber	4
+Mesh;Nylon;Rubber;Suede	4
+Latex;Rubber	4
+Nylon;Ripstop;Synthetic	4
+Leather;Mesh;Nubuck;Nylon;Rubber	4
+Patent Leather;Rubber	4
+Cordura;Suede	4
+Faux Fur;Rubber;Ripstop;Synthetic	4
+Felt;Leather;Rubber	4
+Full-grain leather;Leather;Mesh;Nubuck;Nylon;Rubber	4
+Shearling;Sheepskin;Suede	4
+Cotton;Patent Leather	4
+Leather;Satin;Suede	4
+Leather;Terry	4
+Microfiber;Mesh;Nylon;Polyester;Rubber	4
+Faux Leather;Fleece	4
+Canvas;Rubber;Suede;EVA	4
+Hair Calf;Leather;Patent Leather	4
+Leather;Nubuck;Satin	4
+Neoprene;Nylon	4
+Canvas;Leather;Faux Fur	4
+Cordura;Leather;Rubber	4
+Cork;Jute;Leather	4
+Leather;Mesh;Nylon;Ripstop	4
+Leather;Neoprene;Nylon	4
+Canvas;Faux Leather;Suede	4
+Lace;Rubber;Shearling;Synthetic	4
+Lace;Mesh;Synthetic	4
+Mesh;Nylon;Rubber;Suede;Synthetic	4
+Lace;Mesh;Suede;Synthetic	4
+Cable Knit;Faux Leather;Synthetic	4
+Faux Leather;Leather;Mesh;Synthetic	4
+Canvas;Nylon;Rubber	4
+Leather;Rubber;Shearling;Suede	4
+Mesh;Ripstop;Synthetic	4
+Faux Leather;Leather;Mesh;Rubber	4
+Lace;Mesh	4
+Crocodile ;Hair Calf;Leather;Rubber	4
+Canvas;Cork	4
+Leather;Mesh;Suede;Synthetic	4
+Canvas;Nylon;Suede	4
+Lace;Leather;Mesh;Rubber;Suede	4
+Nubuck;Nylon;Synthetic	3
+Full-grain leather;Rubber;Suede	3
+Fleece;Leather;Nylon;Rubber	3
+Faux Leather;Mesh;Nubuck;Faux Fur	3
+Leather;Tweed	3
+Synthetic;Wool	3
+Hemp;Leather;Nubuck;Nylon;Rubber;Suede	3
+Full-grain leather;Leather;Rubber;EVA	3
+Shearling;Wool	3
+Cotton;Leather;Rubber	3
+Hair Calf;Synthetic	3
+Faux Leather;Lace;Mesh;Synthetic	3
+Canvas;Cotton;Suede	3
+Canvas;Lace;Leather;Rubber;Suede	3
+Microfiber;Nubuck;Suede;Synthetic	3
+Horse Hair	3
+Rubber;Satin;Synthetic	3
+Cotton;Wool	3
+Leather;Polyester;Rubber	3
+Mesh;Satin	3
+Leather;Mesh;Nubuck;Polyester;Rubber	3
+Canvas;Full-grain leather;Lace;Leather;Rubber	3
+Felt;Leather;Nubuck;Rubber	3
+Leather;Mesh;Nylon;Rubber;Suede	3
+Faux Leather;Leather;Mesh;Nubuck;Rubber;Synthetic	3
+Canvas;Full-grain leather;Suede	3
+Microfiber;Nubuck;Rubber;Suede;Synthetic	3
+Leather;Mesh;Nubuck;Synthetic	3
+Lace;Leather;Nylon;Rubber;Suede	3
+Full-grain leather;Leather;Mesh;Nylon	3
+Faux Fur;Rubber;Ripstop	3
+Leather;Latex;Nylon;Rubber	3
+Leather;Neoprene;Nubuck	3
+Leather;Mesh;Nylon;Suede	3
+Full-grain leather;Mesh;Nylon	3
+Sheepskin;Wool	3
+Cork;Leather;Mesh;Rubber	3
+Sheepskin;EVA	3
+Leather;Shearling;Sheepskin;Suede	3
+Canvas;Cotton;Faux Leather	3
+Fleece;Terry	3
+Fleece;Leather;Faux Fur	3
+Faux Leather;Nubuck;Rubber;Synthetic	3
+Canvas;Corduroy;Shearling	3
+Leather;Nappa;Rubber	3
+Fleece;Leather;Rubber	3
+Acrylic	3
+Patent Leather;Satin	3
+Canvas;Leather;Faux Fur;Rubber	3
+Cotton;Leather;Synthetic	3
+Hemp;Leather;Nubuck;Rubber	3
+Nubuck;Nylon;Rubber;Ripstop	3
+Lambskin;Leather;Suede	3
+Rubber;Shearling	3
+Cotton;Lace;Leather;Rubber;EVA	3
+Canvas;Cotton;Lace;Rubber;EVA	3
+Corduroy;Suede	3
+Leather;Mesh;Rubber;Suede;Synthetic	3
+Lace;Leather;Rubber;Shearling;Wool;EVA	3
+Faux Leather;Full-grain leather;Leather;Nubuck;Rubber;Suede;Synthetic	3
+Microfiber;Polyester;Rubber	3
+Polyester;Wool	3
+Microfiber;Mesh;Nylon;Rubber	3
+Microfiber;Rubber;Suede	3
+Hemp;Synthetic	3
+Latex;Neoprene;Rubber	3
+Mesh;Patent Leather	3
+Canvas;Rubber;EVA	3
+Full-grain leather;Lace;Leather;Mesh;Nylon;Rubber	3
+Faux Leather;Mesh;Rubber;Synthetic	3
+Cotton;Rubber;Velour	3
+Felt;Synthetic	3
+Nylon;Faux Fur;Ripstop	3
+Lace;Leather;Rubber;Suede;Synthetic	3
+Latex;Wool	3
+Cordura;Nubuck	3
+Faux Fur;Velvet	3
+Jute;Leather;Nubuck	3
+Canvas;Cotton;Mesh	3
+Chiffon;Silk	3
+Lace;Mesh;Nylon;Rubber;Suede;Synthetic	3
+Leather;Microfiber;Rubber;EVA	3
+Canvas;Leather;Mesh	3
+Nubuck;Velvet	3
+Lace;Mesh;Rubber	3
+Nylon;Rubber;Shearling;Suede	2
 Lace;Leather;Mesh;Nubuck;Synthetic	2
 Cotton;Lace;Leather;Suede;Wool;EVA	2
-Lace;Nylon;Rubber	9
-Nappa;Synthetic	1
-Lace;Nubuck;Rubber;Suede	1
-Faux Leather	643
-Fleece;Microfiber;Nylon;Rubber	1
-Canvas;Velvet	1
-Lace;Leather;Mesh;Synthetic	8
-Full-grain leather;Rubber;Suede	3
-Leather;Mesh;Synthetic	70
-Ripstop;Synthetic	12
-Canvas;Lace;Rubber;Suede	6
 Leather;Patent Leather;Rubber;EVA	2
 Denim;Mesh;Rubber	2
-Corduroy;Full-grain leather;Leather;Nubuck;Suede	1
-Canvas;Rubber;Synthetic	11
-Suede;Synthetic;Velvet	6
 Mesh;Nylon;Polyester;Rubber;Synthetic	2
-Leather;Mesh;Nylon;Rubber;EVA	10
-Mesh;Ripstop	6
+Neoprene;Suede;Synthetic	2
+Jute;Rubber	2
+Corduroy;Faux Fur	2
+Faux Leather;Felt;Jute;Synthetic;Vinyl	2
+Lace;Leather;Polyester;Rubber	2
+Leather;Sheepskin;Wool	2
+Canvas;Jute;Leather;Rubber	2
+Felt;Full-grain leather	2
+Lace;Ripstop;Suede	2
+Fleece;Hemp;Leather;Mesh;Polyester	2
+Mesh;Rubber;EVA	2
+Full-grain leather;Leather;Mesh;Nubuck	2
+Faux Fur;Ripstop	2
+Fleece;Faux Fur;Synthetic	2
+Fleece;Leather;Nylon;Suede	2
+Lace;Leather;Nubuck;Rubber	2
+Canvas;Leather;Synthetic	2
+Full-grain leather;Leather;Nappa	2
+Canvas;Denim;Lace;Rubber	2
+Cotton;Leather;Suede;EVA	2
+Faux Leather;Rubber;Synthetic;EVA	2
+Nylon;Ripstop;Suede;Synthetic	2
+Full-grain leather;Nylon;Suede	2
+Leather;Patent Leather;Rubber	2
+Cotton;Microfiber;Suede;Synthetic	2
+Leather;Microfiber;Mesh;Synthetic	2
+Latex;Nylon;Rubber	2
+Cotton;Mesh;Suede	2
+Mesh;Neoprene;Nubuck;Suede	2
+Cordura;Nubuck;Rubber;Suede	2
+Nubuck;Polyester;Rubber;Synthetic	2
+Lambskin;Sheepskin	2
+Acrylic;Fleece;Leather;Nylon;Polyester;Rubber	2
+Acrylic;Synthetic	2
+Leather;Microfiber;Synthetic	2
+Lace;Leather;Nubuck;Rubber;Suede;Synthetic	2
+Lace;Leather;Nylon;Rubber	2
+Microfiber;Polyurethane	2
+Felt;Neoprene;Rubber	2
+Cotton;Full-grain leather;Rubber	2
+Leather;Mesh;Polyester;Rubber;Synthetic;EVA	2
+Felt;Leather	2
+Full-grain leather;Leather;Polyurethane	2
+Nylon;Patent Leather;Suede	2
+Deerskin;Leather;Mesh	2
+Mesh;Patent Leather;Rubber;Synthetic	2
+Cotton;Nylon;Rubber	2
+Patent Leather;Velvet	2
+Faux Leather;Nubuck;Suede	2
+Cotton;Linen	2
+Full-grain leather;Latex	2
+Full-grain leather;Leather;Mesh	2
+Cotton;Leather;Polyester	2
+Microfiber;Mesh;Rubber;Suede	2
+Cotton;Fleece;Rubber;Suede;Synthetic	2
+Leather;Nappa;Sheepskin	2
+Canvas;Lace;Leather;Rubber;Wool	2
+Fleece;Leather;Rubber;Ripstop;Synthetic	2
+Fleece;Leather;Suede	2
+Leather;Nylon;Rubber;Terry	2
+Mesh;Nylon;Polyester;Synthetic	2
+Cork;Patent Leather;Synthetic	2
+Polyester;Suede	2
+Canvas;Leather;Suede;Synthetic	2
+Canvas;Lace;Rubber;Synthetic	2
+Neoprene;Nubuck;Synthetic	2
+Distressed Leather;Leather;Suede	2
+Denim;Lace;Leather;Nubuck;Rubber	2
+Crochet;Polyester;Suede;Wool	2
+Canvas;Ripstop	2
+Canvas;Leather;Mesh;Rubber	2
+Leather;Nappa;Satin	2
+Leather;Latex;Neoprene;Nylon;Rubber;Synthetic	2
+Faux Leather;Leather;Rubber	2
+Canvas;Wool	2
+Faux Leather;Mesh;Patent Leather	2
+Distressed Leather;Full-grain leather;Leather;Nubuck	2
+Nylon;Suede;Synthetic	2
+Aluminum;Nylon;Synthetic	2
+Acrylic;Leather	2
+Leather;Microfiber;Mesh	2
+Canvas;Cotton;Leather;Suede	2
+Rubber;Synthetic;EVA	2
+Rubber;Ripstop	2
+Acrylic;Jute	2
+Cotton;Leather;Mesh	2
+Cork;Patent Leather	2
+Nubuck;Nylon;Ripstop	2
+Canvas;Hemp;Suede	2
+Cordura;Leather;Suede	2
+Leather;Mesh;Nubuck;Rubber;EVA	2
+Neoprene;Nylon;Rubber;Synthetic	2
+Faux Leather;Neoprene;Rubber;Synthetic	2
+Lace;Leather;Nubuck	2
+Leather;Microfiber;Suede	2
+Nylon;Polyester	2
+Felt;Nubuck;Rubber;Wool	2
+Leather;Rubber;Ripstop;Suede	2
+Leather;Neoprene;Synthetic	2
+Linen;Nubuck;Rubber	2
+Distressed Leather	2
+Nubuck;Suede;Wool	2
+Full-grain leather;Faux Fur	2
+Nylon;Patent Leather	2
+Leather;Neoprene;Rubber;Suede;Synthetic	2
+Leather;Latex;Rubber;Synthetic	2
+Canvas;Jute;Leather	2
+Cotton;Lambskin;Lace;Leather	2
+Microfiber;Nubuck	2
+Denim;Leather	2
+Canvas;Faux Leather;Leather;Suede	2
+Canvas;Lace;Mesh;Rubber	2
+Patent Leather;Wool	2
+Cotton;Lace;Leather;Rubber	2
+Leather;Mesh;Neoprene;Rubber;Synthetic	2
+Full-grain leather;Lace;Leather;Rubber	2
+Faux Fur;Rubber	2
+Leather;Latex	2
+Corduroy;Shearling;EVA	2
+Canvas;Felt;Leather;Rubber	2
+Lace;Leather;Nylon	2
+Canvas;Leather;Microfiber;Suede;Synthetic	2
+Nylon;Patent Leather;Synthetic	2
+Leather;Patent Leather;EVA	2
+Full-grain leather;Leather;EVA	2
+Suede;Tweed	2
+Cork;Leather;Rubber	2
+Leather;Nappa;Patent Leather	2
+Mesh;Nubuck;Rubber;Suede	2
+Cotton;Polyester;Suede	2
+Mesh;Neoprene;Rubber	2
+Lace;Leather;Suede;EVA	2
+Jute;Nubuck	2
+Microfiber;Nylon;Rubber	2
+Nubuck;Nylon;Polyester;Rubber	2
+Lace;Rubber;Wool	2
+Nylon;Wool	2
+Leather;Nylon;Rubber;Synthetic	2
+Lambskin	2
+Fleece;Leather;Faux Fur;Rubber;Suede	2
+Leather;Nubuck;Wool	2
+Canvas;Shearling;Suede;EVA	2
+Canvas;Patent Leather	2
+Leather;Nubuck;Rubber;Shearling;Synthetic	2
+Fleece;Nylon;Synthetic	2
+Faux Leather;Mesh;Rubber	2
+Faux Leather;Faux Fur;Rubber;Synthetic;EVA	2
+Faux Leather;Lace	2
+Mesh;Polyester;Suede	2
+Faux Suede;Synthetic	2
+Rubber;Sheepskin	2
+Cotton;Leather;Suede	2
+Cotton;Mesh	2
+Hemp;Nubuck	2
+Jute;EVA	2
+Lace;Leather;Rubber;Wool	2
+Shearling;EVA	2
+Canvas;Leather;Nubuck;Rubber;Suede	2
+Felt;Leather;Rubber;Suede	1
+Distressed Leather;Leather	1
+Cordura;Felt;Nylon	1
+Nubuck;Nylon;Suede	1
+Canvas;Cotton;Polyester	1
+Canvas;Denim;Rubber	1
+Silk;Synthetic	1
+Faux Leather;Microfiber	1
+Leather;Mesh;Nylon;Rubber;Suede;EVA	1
+Canvas;Hemp;Rubber;Suede	1
+Leather;Rubber;Shearling;Sheepskin;Suede	1
+Nappa;Synthetic	1
+Lace;Nubuck;Rubber;Suede	1
+Fleece;Microfiber;Nylon;Rubber	1
+Canvas;Velvet	1
+Corduroy;Full-grain leather;Leather;Nubuck;Suede	1
 Canvas;Cotton;Lace;Leather	1
-Neoprene;Synthetic	20
 Faux Leather;Leather;Mesh;Rubber;Suede;Synthetic	1
-Lace;Satin	5
-Leather;Satin;Synthetic	18
-Leather;Mesh;Nubuck;Rubber;Suede	15
-Lace;Leather;Mesh;Rubber;Synthetic	9
-EVA	49
 Neoprene;Polyester	1
 Faux Leather;Jute;Synthetic	1
 Leather;Suede;Wool	1
-Latex;Synthetic	14
-Microfiber	67
-Fleece;Leather;Nylon;Rubber	3
-Neoprene;Suede;Synthetic	2
-Polyester;Rubber;Vinyl	4
-Full-grain leather;Leather;Rubber	66
-Suede;Velour	13
-Jute;Rubber	2
 Microfiber;Faux Fur	1
-Faux Leather;Rubber;Synthetic	14
-Mesh;Polyester;Rubber	5
 Faux Leather;Mesh;Polyester;Synthetic	1
-Corduroy;Faux Fur	2
-Faux Leather;Felt;Jute;Synthetic;Vinyl	2
-Canvas;Cotton;Leather;Rubber;Suede	51
-Leather;Nubuck;Suede;Synthetic	15
-Leather;Microfiber;Mesh;Rubber;Synthetic	6
-Satin;Synthetic	17
-Cordura;Leather	6
-Polyester;Synthetic	5
 Denim;Leather;Nubuck;Suede	1
-Mesh;Patent Leather;Synthetic	5
-Faux Leather;Mesh;Nubuck;Faux Fur	3
-Leather;Velvet	9
 Exotic;Leather	1
-Lace;Leather;Polyester;Rubber	2
-Hair Calf;Leather	88
-Leather;Tweed	3
-Synthetic;Wool	3
-Leather;Sheepskin;Wool	2
-Hair Calf;Suede	9
-Faux Leather;Synthetic	305
 Ostrich	1
-Hemp;Leather;Nubuck;Nylon;Rubber;Suede	3
-Suede	4091
-Full-grain leather;Leather;Mesh;Rubber	10
-Felt;Wool	49
-Rubber;Vinyl	8
 Full-grain leather;Mesh;Suede	1
-Full-grain leather;Leather;Mesh;Rubber;Suede	4
-Full-grain leather;Mesh	27
 Hair Calf;Leather;Mesh;Nappa	1
-Full-grain leather;Nylon;Rubber	4
-Full-grain leather;Leather;Rubber;EVA	3
 Plastic;Synthetic	1
 Faux Leather;Mesh;Nylon;Synthetic	1
-Full-grain leather;Rubber;Synthetic	5
-Leather;Suede;EVA	4
-Canvas;Jute;Leather;Rubber	2
 Leather;Polyurethane;Rubber;Suede;Synthetic	1
-Felt;Full-grain leather	2
 Cordura;Nylon	1
-Shearling;Wool	3
-Leather;Microfiber;Suede;Synthetic	4
-Deerskin	9
-Canvas;Lace;Rubber	65
 Cordura;Leather;Nubuck;Velour	1
-Satin;Suede	6
-Rubber;Satin	4
-Lace;Ripstop;Suede	2
 Nylon;Polyurethane	1
-Fleece;Hemp;Leather;Mesh;Polyester	2
-Faux Leather;Nubuck;Synthetic	5
 Leather;Snakeskin;Suede	1
 Lace;Polyurethane;Synthetic	1
 Suede;EVA	1
 Hair Calf;Leather;Rubber	1
 Full-grain leather;Leather;Polyester;Rubber	1
-Cotton;Leather;Rubber	3
-Microfiber;Nylon;Faux Fur;Ripstop	10
-Felt	28
-Cork	20
-Lace;Mesh;Rubber;Suede;Synthetic	4
-Canvas;Cordura;Cotton;Lace;Leather;Rubber	11
-Canvas;Cotton;Synthetic	13
-Canvas;Denim	8
-Polyester;Terry	10
-Cork;Leather;Rubber;Suede;EVA	8
-Leather;Faux Fur;Suede	9
 Faux Leather;Polyester	1
-Full-grain leather;Leather;Microfiber;Rubber;Suede	5
 Leather;Nappa;Nubuck	1
-Cork;Rubber	4
-Leather;Neoprene;Rubber;Suede	24
-Leather	15230
-Nubuck;Nylon	12
-Cotton;Rubber	6
 Faux Leather;Synthetic;Wool	1
-Ripstop;Suede	4
-Mesh;Rubber;EVA	2
-Jute;Leather;Suede	4
-Hemp;Rubber	5
-Lace;Rubber	10
-Canvas;Faux Leather;Full-grain leather;Leather;Nubuck;Synthetic	4
-Mesh;Rubber;Suede	64
-Canvas;Jute	8
 Shearling;Suede;Synthetic	1
-Lace;Suede	4
 Leather;Nappa;Rubber;Synthetic	1
-Hair Calf;Synthetic	3
-Full-grain leather;Leather;Mesh;Nubuck	2
 Latex;Mesh;Nylon;Rubber	1
 Canvas;Deerskin	1
-Faux Fur;Ripstop	2
-Fleece;Faux Fur;Synthetic	2
-Fleece;Leather;Nylon;Suede	2
-Rubber;Suede	118
-Leather;Nubuck;Patent Leather	40
-Faux Leather;Lace;Mesh;Synthetic	3
-Leather;Rubber;Synthetic	92
 Cotton;Polyester;Rubber;Suede	1
-Fleece;Nylon	6
-Felt;Suede	6
 Felt;Faux Fur;Rubber	1
-Canvas;Cotton;Suede	3
-Nubuck;Suede;Synthetic	13
-Leather;Mesh;Nylon;Rubber	37
-Canvas;Lace;Leather;Rubber;Suede	3
-Nylon;Faux Fur;Rubber	8
 Leather;Mesh;Nylon;Polyester;Suede	1
-Canvas;Nubuck;Rubber	6
 Full-grain leather;Microfiber;Rubber;EVA	1
 Leather;Mesh;Nubuck;Nylon	1
 Canvas;Rubber;Wool	1
-Rubber;EVA	7
-Microfiber;Nubuck;Suede;Synthetic	3
-Lace;Leather;Nubuck;Rubber	2
-Cotton;Synthetic	7
-Leather;Satin	94
-Full-grain leather;Leather;Mesh;Nylon;Rubber	16
 Cotton;Lambskin;Leather	1
 Jute;Leather;Rubber;Suede	1
-Leather;Mesh;Nylon;Synthetic	8
-Horse Hair	3
-Rubber;Satin;Synthetic	3
-Canvas;Lace;Leather;Synthetic	4
-Hemp	16
-Microfiber;Mesh;Rubber;Synthetic	22
 Faux Leather;Lace;Synthetic	1
 Leather;Rubber;Snakeskin	1
-Nubuck;Rubber;Suede	11
-Mesh;Nubuck;Nylon;Rubber	6
 Canvas;Hemp;Rubber	1
-Faux Fur;Rubber;Synthetic	5
-Cotton;Wool	3
-Canvas;Leather;Synthetic	2
-Leather;Nubuck;Suede	102
 Faux Leather;Leather;Patent Leather	1
 Full-grain leather;Leather;Rubber;Suede;Wool	1
-Leather;Shearling;Wool	8
-Leather;Polyester;Rubber	3
 Faux Leather;Faux Fur;Synthetic	1
-Mesh;Satin	3
-Mesh;Nylon;Synthetic	115
-Full-grain leather;Leather;Nappa	2
-Mesh;Nylon;Patent Leather;Rubber;Ripstop;Synthetic	4
 Felt;Leather;Rubber;Wool	1
 Canvas;Leather;Polyester;Rubber;Suede	1
-Synthetic;Vinyl	4
-Mesh;Nylon;Rubber	8
-Canvas;Denim;Lace;Rubber	2
-Mesh;Polyester;Rubber;Synthetic	22
 Acrylic;Faux Leather;Synthetic	1
-Denim	15
-Microfiber;Rubber;Synthetic	8
-Cotton;Leather;Suede;EVA	2
-Leather;Mesh;Nubuck;Polyester;Rubber	3
-Faux Leather;Rubber;Synthetic;EVA	2
 Canvas;Cotton;Lace;Rubber;Suede	1
 Full-grain leather;Leather;Mesh;Nylon;Rubber;EVA	1
-Canvas;Full-grain leather;Lace;Leather;Rubber	3
-Mesh;Nylon;Polyester;Rubber	4
-Polyester;Vinyl	8
-Acrylic;Faux Leather;Jute;Synthetic	5
-Jute;Suede	13
-Nylon;Ripstop;Suede;Synthetic	2
 Patent Leather;Satin;Suede	1
-Mesh;Neoprene;Rubber;Synthetic	10
-Lace;Mesh;Rubber;Synthetic	16
-Canvas;Cotton	134
-Cotton;Suede	8
-Canvas;Cotton;Corduroy	5
 Nubuck;Polyester;Rubber	1
-Mesh;Nubuck;Synthetic	14
-Full-grain leather;Nylon;Suede	2
 Microfiber;Ripstop	1
-Acrylic;Rubber;Suede;Wool	6
 Leather;Ostrich;Rubber	1
-Mesh;Nylon;Rubber;Synthetic	8
-Leather;Patent Leather;Rubber	2
 Cotton;Mesh;Synthetic	1
-Cotton;Microfiber;Suede;Synthetic	2
 Cordura;Leather;Mesh	1
-Felt;Leather;Nubuck;Rubber	3
 Neoprene;Rubber;Synthetic	1
-Canvas;Nubuck;Suede	4
-Nappa	41
-Felt;Full-grain leather;Leather;Rubber	4
-Shearling	31
-Leather;Microfiber;Mesh;Synthetic	2
-Latex;Nylon;Rubber	2
 Canvas;Cotton;Full-grain leather;Lace;Rubber	1
-Leather;Mesh;Patent Leather	6
-Nylon;Ripstop	9
-Leather;Mesh;Nylon;Rubber;Suede	3
-Cotton;Mesh;Suede	2
-Snakeskin;Synthetic	4
-Mesh;Neoprene;Nubuck;Suede	2
-Lambskin;Leather	7
-Shearling;Terry	6
 Fleece;Leather	1
-Cordura;Nubuck;Rubber;Suede	2
-Leather;Nappa	181
 Jacquard;Suede	1
-Hair Calf;Leather;Suede	4
-Microfiber;Nylon	13
-Nubuck;Polyester;Rubber;Synthetic	2
-Canvas;Cotton;Lace;Leather;Rubber	6
-Canvas;Faux Leather;Mesh;Suede;Synthetic	11
-Faux Leather;Leather;Mesh;Nubuck;Rubber;Synthetic	3
-Mesh;Nubuck;Rubber	9
 Plastic;Rubber;Synthetic	1
 Leather;Patent Leather;Suede;Velvet	1
-Suede;Synthetic	148
-Nylon;EVA	16
-Lace	34
-Leather;Neoprene;Nylon;Rubber	5
-Faux Leather;Leather;Synthetic	24
-Lambskin;Sheepskin	2
-Leather;Nylon;Rubber;EVA	8
-Canvas;Cotton;Microfiber;Rubber	4
-Fleece;Rubber	9
-Acrylic;Fleece;Leather;Nylon;Polyester;Rubber	2
 Leather;Polyester;Wool	1
-Acrylic;Synthetic	2
-Canvas;Full-grain leather;Suede	3
-Leather;Microfiber;Synthetic	2
-Microfiber;Nubuck;Rubber;Suede;Synthetic	3
-Lace;Leather;Nubuck;Rubber;Suede;Synthetic	2
-Cordura;Leather;Nubuck	11
-Lace;Leather;Nylon;Rubber	2
 Denim;Lace;Rubber	1
-Leather;Mesh;Nubuck;Synthetic	3
 Latex;Snakeskin	1
 Cordura;Mesh;Rubber;Suede	1
-Microfiber;Polyurethane	2
-Felt;Neoprene;Rubber	2
-Full-grain leather;Mesh;Rubber	4
-Cork;Leather;Suede	4
 Hair Calf;Microfiber	1
-Cordura;Nylon;Rubber;Suede	7
-Cotton;Full-grain leather;Rubber	2
 Cotton;Silk	1
 Canvas;Leather;Ostrich;Rubber	1
-Polyurethane	12
-Leather;Mesh;Polyester;Rubber;Synthetic;EVA	2
-Canvas;Mesh;Nylon;Patent Leather;Rubber;Synthetic	7
-Leather;Patent Leather;Suede	23
-Tweed;Wool	6
-Felt;Leather	2
-Canvas;Faux Leather	4
-Nylon;Rubber;EVA	6
 Cotton;Faux Fur	1
-Full-grain leather;Leather;Polyurethane	2
-Lace;Leather;Nylon;Rubber;Suede	3
-Corduroy;Velvet	4
-Full-grain leather;Leather;Mesh;Nylon	3
-Exotic;Leather;Ostrich	9
-Exotic;Lace;Leather;Ostrich	4
-Faux Fur;Wool	17
-Crocodile 	5
-Nylon;Patent Leather;Suede	2
-Cork;Synthetic	5
-Lace;Mesh;Nylon;Rubber;Synthetic	4
-Deerskin;Leather;Mesh	2
-Mesh;Patent Leather;Rubber;Synthetic	2
 Leather;Nappa;Nylon	1
-Full-grain leather;Leather;Rubber;Suede	14
 Hemp;Leather	1
-Cotton;Nylon;Rubber	2
-Canvas;Mesh	4
 Cashmere;Denim;Leather;Lizard;Nubuck;Ostrich;Rubber;Silk;Suede	1
-Patent Leather;Velvet	2
 Felt;Nylon;Polyester;Rubber	1
 Canvas;Cotton;Cork;Leather	1
 Cordura;Leather;Nubuck;Nylon	1
-Linen	18
-Mesh;Synthetic	1319
-Leather;Rubber;Wool	4
-Mesh;Patent Leather;Rubber	4
-Hair Calf;Patent Leather	5
-Mesh;Suede;Synthetic	18
-Cordura;Nylon;Shearling;Synthetic	4
-Faux Fur;Rubber;Ripstop	3
-Mesh;Suede	232
-Leather;Microfiber	25
-Nubuck;Patent Leather	20
-Synthetic	3718
-Faux Leather;Nubuck;Suede	2
-Cotton;Denim;Mesh;Patent Leather;Suede;Tweed	6
-Leather;Rubber;Shearling	23
-Faux Fur;Synthetic	35
-Cotton;Linen	2
-Leather;Latex;Nylon;Rubber	3
-Neoprene;Rubber	48
-Microfiber;Mesh;Polyester;Rubber	6
-Rubber	842
-Microfiber;Nylon;Ripstop	28
-Leather;Shearling;Suede	6
-Full-grain leather;Patent Leather	4
-Lace;Leather;Suede;Synthetic	14
-Stingray	4
-Canvas;Cotton;Lace;Rubber	14
-Full-grain leather;Latex	2
-Full-grain leather;Leather;Mesh	2
-Lace;Rubber;Suede	9
 Fleece;Lace;Leather;Rubber	1
 Tweed;Velvet	1
-Full-grain leather;Leather;Microfiber;Suede;Synthetic	4
-Mesh;Neoprene;Synthetic	6
-Fleece;Leather;Nylon;Polyester;Rubber	4
-Leather;Ostrich	5
-Mesh	397
 Leather;Nubuck;Polyurethane	1
-Cotton;Leather;Polyester	2
 Cork;Leather;EVA	1
-Mesh;Nylon;Rubber;Suede	4
-Nylon;Rubber;Synthetic	22
-Leather;Nylon;Synthetic	8
 Denim;Synthetic	1
-Lace;Leather;Mesh	7
 Hair Calf;Rubber;EVA	1
-Microfiber;Mesh;Rubber;Suede	2
-Microfiber;Suede	5
-Cotton;Fleece;Rubber;Suede;Synthetic	2
 Cordura;Lace;Leather	1
-Leather;Nappa;Sheepskin	2
-Canvas;Lace;Leather;Rubber;Wool	2
 Felt;Nylon	1
-Canvas;Suede;Synthetic	7
-Nylon;Faux Fur	12
-Leather;Rubber	1118
-Fleece;Leather;Rubber;Ripstop;Synthetic	2
 Chiffon	1
 Felt;Leather;Nylon	1
 Cotton;Faux Fur;Suede	1
 Lace;Leather;Shearling	1
-Latex;Rubber	4
-Full-grain leather;Wool	10
-Fleece;Leather;Suede	2
-Leather;Neoprene;Nubuck	3
 Exotic;Leather;Nubuck	1
-Lace;Leather;Rubber;Suede	49
 Steel	1
-Faux Leather;Nylon	7
 Faux Leather;Nubuck	1
-Leather;Nylon;Rubber;Terry	2
-Mesh;Nylon;Polyester;Synthetic	2
-Fleece;Sheepskin	41
-Cork;Patent Leather;Synthetic	2
-Polyester;Suede	2
 Lace;Leather;Rubber;Shearling;Suede	1
-Canvas;Leather;Suede;Synthetic	2
-Leather;Mesh;Nylon;Suede	3
 Shearling;Velvet	1
 Lace;Nubuck;Rubber	1
 Cordura;Lace	1
-Canvas;Lace;Rubber;Synthetic	2
-Full-grain leather;Mesh;Nylon	3
-Neoprene;Nubuck;Synthetic	2
-Nylon;Ripstop;Synthetic	4
-Lace;Nylon;Rubber;Suede	8
-Faux Leather;Mesh	38
-Distressed Leather;Leather;Suede	2
-Fleece;Faux Fur	13
 Polyester;Polyurethane;Rubber	1
-Sheepskin;Wool	3
-Felt;Nylon;Rubber	7
-Leather;Mesh;Nubuck;Nylon;Rubber	4
-Denim;Lace;Leather;Nubuck;Rubber	2
 Leather;Nylon;Sheepskin;Suede	1
 Linen;Leather	1
-Leather;Nubuck;Polyester;Rubber	11
-Leather;Mesh;Rubber;EVA	8
-Faux Leather;Rubber	20
-Canvas;Leather;Rubber;Suede	45
 Leather;Rubber;Suede;Tweed;Wool	1
-Cable Knit	10
-Crochet;Polyester;Suede;Wool	2
-Lace;Rubber;Synthetic	19
-Lace;Leather;Synthetic	81
-Canvas;Ripstop	2
 Faux Leather;Full-grain leather	1
 Sheepskin;Suede;Wool	1
 Leather;Nubuck;Rubber;Synthetic;Wool	1
-Cork;Leather;Mesh;Rubber	3
-Fleece;Rubber;Suede	5
-Faux Leather;Faux Fur	5
-Patent Leather;Rubber	4
-Lace;Leather;Rubber;EVA	9
-Leather;Mesh	334
-Faux Leather;Patent Leather;Synthetic	10
-Canvas;Leather;Mesh;Rubber	2
-Sheepskin;EVA	3
-Cordura;Suede	4
-Leather;Patent Leather;Rubber;Satin;Synthetic	6
-Patent Leather	1129
-Polyester;Rubber	41
-Ripstop	19
 Sheepskin;Tweed	1
-Mesh;Neoprene	8
-Nappa;Patent Leather	12
-Satin	508
-Faux Fur;Rubber;Ripstop;Synthetic	4
-Canvas;Neoprene	5
-Leather;Nappa;Satin	2
-Leather;Latex;Neoprene;Nylon;Rubber;Synthetic	2
-Leather;Shearling;Sheepskin;Suede	3
 Canvas;Lace;Rubber;Terry	1
 Canvas;Leather;Mesh;Rubber;Synthetic	1
-Full-grain leather;Leather;Nylon;Suede	5
 Lace;Leather;Polyester;Rubber;Suede	1
-Leather;Nubuck;Synthetic	24
-Canvas;Cotton;Faux Leather	3
-Felt;Leather;Rubber	4
-Leather;Nubuck;Rubber	94
-Suede;Velvet	6
-Faux Leather;Leather;Rubber	2
-Full-grain leather;Leather;Patent Leather	5
 Canvas;Faux Leather;Nubuck;Patent Leather;Suede	1
-Canvas;Lace;Leather;Rubber	12
-Full-grain leather;Leather;Mesh;Nubuck;Nylon;Rubber	4
-Leather;Faux Fur;Rubber;Suede	6
-Canvas;Wool	2
-Shearling;Sheepskin;Suede	4
-Faux Leather;Mesh;Patent Leather	2
-Distressed Leather;Full-grain leather;Leather;Nubuck	2
-Fleece;Terry	3
-Leather;Faux Fur	64
 Cordura;Synthetic	1
-Canvas;Leather;Tweed	16
-Leather;Neoprene;Nubuck;Rubber;Synthetic	8
 Canvas;Mesh;Nylon;Rubber	1
-Fleece;Leather;Faux Fur	3
-Nylon;Suede;Synthetic	2
 Nylon;Polyurethane;Rubber	1
-Aluminum;Nylon;Synthetic	2
-Nubuck;Rubber	28
-Cotton;Patent Leather	4
 Microfiber;Mesh;Nubuck	1
-Acrylic;Leather	2
-Leather;Satin;Suede	4
-Leather;Neoprene	20
-Leather;Rubber;Suede;Wool	8
-Microfiber;Mesh;Nylon;Polyester	7
-Leather;Microfiber;Mesh	2
 Microfiber;Mesh;Neoprene;Rubber;Suede;Synthetic	1
 Aluminum;Plastic	1
-Nylon;Rubber;Suede	32
-Mesh;Nubuck;Rubber;Synthetic	5
 Cotton;Denim	1
 Cotton;Full-grain leather;Leather;Rubber;Suede	1
-Faux Leather;Nubuck;Rubber;Synthetic	3
 Faux Leather;Rubber;EVA	1
-Canvas;Corduroy;Shearling	3
-Leather;Synthetic	579
-Leather;Terry	4
-Canvas;Cotton;Leather;Suede	2
-Rubber;Synthetic;EVA	2
-Lace;Leather;Mesh;Rubber	8
-Leather;Nappa;Rubber	3
-Fleece;Leather;Rubber	3
-Leather;Rubber;Suede;Synthetic	8
-Rubber;Ripstop	2
-Acrylic;Jute	2
-Leather;Mesh;Nubuck;Rubber	40
-Microfiber;Mesh;Nylon;Polyester;Rubber	4
-Full-grain leather;Leather;Nubuck	14
-Acrylic	3
-Shearling;Sheepskin	30
-Nubuck	325
 Canvas;Leather;Mesh;Nubuck;Rubber;Satin;Suede;Synthetic;Velvet	1
 Velvet;Velour	1
 Suede;Synthetic;Wool	1
-Synthetic;EVA	20
 Canvas;Vinyl	1
-Cotton;Leather;Mesh	2
-Full-grain leather;Leather;Nubuck;Rubber	5
-Faux Leather;Fleece	4
-Cork;Patent Leather	2
-Canvas;Rubber;Suede;EVA	4
-Hair Calf;Leather;Patent Leather	4
-Patent Leather;Satin	3
-Nubuck;Nylon;Ripstop	2
-Terry	70
-Leather;Polyurethane	5
-Canvas;Hemp;Suede	2
-Fleece	80
 Canvas;Patent Leather;Rubber	1
 Cordura;Rubber;Synthetic	1
-Cordura;Leather;Suede	2
-Leather;Nubuck;Satin	4
 Leather;Polyester;Rubber;Wool	1
-Canvas;Leather	104
-Mesh;Rubber;Suede;Synthetic	29
-Neoprene;Nylon	4
-Full-grain leather;Neoprene	5
 Faux Leather;Neoprene;Nylon	1
-Canvas;Rubber;Suede	31
-Leather;Suede;Synthetic	67
-Leather;Mesh;Nubuck;Rubber;EVA	2
-Full-grain leather;Mesh;Nubuck	5
-Canvas;Cotton;Leather;Rubber;Suede;Synthetic	12
-Faux Leather;Leather;Mesh;Rubber;Synthetic	8
-Nylon	272
-Neoprene;Nylon;Rubber;Synthetic	2
-Canvas;Leather;Faux Fur;Rubber	3
-Cotton;Leather;Synthetic	3
 Patent Leather;Faux Fur	1
-Leather;Nylon;Suede	27
-Faux Leather;Neoprene;Rubber;Synthetic	2
 Canvas;Faux Fur	1
-Cotton;Leather	23
-Lace;Leather;Nubuck	2
 Lace;Leather;Rubber;Shearling;Wool	1
-Leather;Microfiber;Suede	2
 Nubuck;Patent Leather;Suede	1
-Satin;Terry	6
-Canvas;Leather;Faux Fur	4
-Leather;Sheepskin;Suede	11
-Cotton	99
-Faux Leather;Suede	6
 Suede;Horse Hair	1
-Microfiber;Suede;Synthetic	5
 Leather;Ostrich;Nylon;Rubber	1
-Patent Leather;Synthetic	79
-Leather;Mesh;Nubuck;Rubber;Synthetic	11
-Nylon;Polyester	2
-Faux Leather;Leather	8
-Felt;Nubuck;Rubber;Wool	2
-Hemp;Leather;Nubuck;Rubber	3
-Leather;Nubuck;Rubber;EVA	18
-Canvas;Leather;Rubber	49
-Cordura;Leather;Rubber	4
-Leather;Rubber;Ripstop;Suede	2
-Leather;Neoprene;Synthetic	2
-Full-grain leather	1241
-Linen;Nubuck;Rubber	2
 Full-grain leather;Leather;Neoprene	1
-Distressed Leather	2
-Nubuck;Suede;Wool	2
-Full-grain leather;Faux Fur	2
 Canvas;Leather;Nappa;Suede	1
-Cork;Leather	26
-Polyester;Rubber;Synthetic	6
 Mesh;Nubuck;Polyurethane;Rubber;Synthetic	1
-Nylon;Patent Leather	2
-Mesh;Nubuck	31
-Canvas;Leather;Nubuck;Suede	9
-Leather;Neoprene;Rubber;Suede;Synthetic	2
-Leather;Latex;Rubber;Synthetic	2
-Polyurethane;Synthetic	10
-Canvas;Jute;Leather	2
-Cotton;Lambskin;Lace;Leather	2
-Microfiber;Nubuck	2
-Denim;Leather	2
-Nubuck;Nylon;Rubber;Ripstop	3
-Canvas;Faux Leather;Leather;Suede	2
-Crocodile ;Exotic;Leather	9
-Full-grain leather;Leather;Nylon	8
 Faux Leather;Lace;Leather;Rubber;Synthetic	1
-Cork;Jute;Leather	4
-Canvas;Lace;Mesh;Rubber	2
-Lambskin;Leather;Suede	3
 Canvas;Mesh;Rubber	1
-Leather;Mesh;Nylon;Ripstop	4
 Faux Leather;Hair Calf	1
 Faux Leather;Patent Leather;Rubber;Synthetic	1
 Microfiber;Shearling;Suede	1
-Full-grain leather;Suede	82
 Leather;Rubber;Velvet	1
-Faux Leather;Mesh;Nylon	15
 Full-grain leather;Nubuck;Rubber	1
-Rubber;Shearling	3
 Leather;Ripstop	1
 Canvas;Fleece	1
-Canvas;Cotton;Rubber;Suede	5
-Canvas;Leather;Mesh;Nubuck;Patent Leather;Rubber;Suede	6
 Faux Leather;Mesh;Faux Fur	1
-Fleece;Synthetic	6
-Cotton;Lace;Leather;Rubber;EVA	3
-Canvas;Cotton;Lace;Rubber;EVA	3
-Leather;Mesh;Nylon	51
-Microfiber;Mesh;Rubber	22
-Leather;Mesh;Rubber;Synthetic	90
-Full-grain leather;Leather;Suede	16
-Corduroy;Suede	3
 Leather;Snakeskin	1
-Full-grain leather;Synthetic	11
-Wool	185
-Leather;Mesh;Polyester	9
 Distressed Leather;Full-grain leather;Leather	1
-Leather;Mesh;Rubber;Suede;Synthetic	3
-Crocodile ;Full-grain leather;Leather;Nubuck;Patent Leather	5
 Cork;Polyester;Synthetic	1
 Leather;Shearling;Sheepskin	1
 Full-grain leather;Suede;Synthetic	1
-Leather;Mesh;Rubber;Suede	39
-Faux Fur	73
-Patent Leather;Wool	2
 Rubber;Synthetic;Terry	1
-Lace;Leather;Rubber;Shearling;Wool;EVA	3
 Nylon;Polyester;Polyurethane	1
-Vinyl	12
-Leather;Nubuck	526
-Leather;Neoprene;Nylon	4
 Faux Fur;Rubber;Suede	1
-Silk	14
-Cotton;Lace;Leather;Rubber	2
-Deerskin;Leather	31
-Leather;Mesh;Polyester;Rubber;Synthetic	5
-Faux Leather;Full-grain leather;Leather;Nubuck;Rubber;Suede;Synthetic	3
-Aluminum	6
-Canvas;Cotton;Rubber	28
-Leather;Mesh;Nylon;Rubber;Synthetic	8
-Canvas;Faux Leather;Suede	4
-Lace;Rubber;Shearling;Synthetic	4
-Full-grain leather;Nylon	8
-Leather;Mesh;Neoprene;Rubber;Synthetic	2
-Faux Leather;Mesh;Synthetic	78
-Leather;Microfiber;Rubber	20
-Mesh;Polyester	45
-Hemp;Suede	5
-Latex	16
-Microfiber;Mesh;Synthetic	28
 Fleece;Faux Fur;Rubber;Suede	1
-Microfiber;Polyester;Rubber	3
-Polyester;Wool	3
-Crocodile ;Leather	8
-Full-grain leather;Lace;Leather;Rubber	2
-Microfiber;Rubber	18
-Faux Fur;Rubber	2
-Leather;Polyester	8
-Microfiber;Mesh;Nylon;Rubber	3
-Leather;Latex	2
-Lace;Mesh;Synthetic	4
-Corduroy;Shearling;EVA	2
-Canvas;Felt;Leather;Rubber	2
 Faux Leather;Fleece;Nylon	1
-Microfiber;Rubber;Suede	3
-Hemp;Synthetic	3
-Lace;Leather;Nylon	2
-Canvas;Leather;Microfiber;Suede;Synthetic	2
 Lace;Faux Fur	1
 Suede;Vinyl	1
 Hair Calf;Rubber	1
-Leather;Sheepskin	19
-Nylon;Patent Leather;Synthetic	2
-Faux Leather;Jute	9
-Mesh;Nylon;Rubber;Suede;Synthetic	4
-Leather;Patent Leather;EVA	2
-Lace;Mesh;Suede;Synthetic	4
-Fleece;Suede	13
-Cable Knit;Faux Leather;Synthetic	4
 Cotton;Faux Fur;Wool	1
 Leather;Nubuck;Rubber;Synthetic	1
 Sheepskin;Suede;EVA	1
-Faux Leather;Leather;Mesh;Synthetic	4
 Leather;Mesh;Nubuck;Nylon;Rubber;Suede	1
-Canvas;Rubber	171
-Full-grain leather;Leather;EVA	2
-Mesh;Nylon	28
-Rubber;Synthetic	284
 Fleece;Nubuck;Rubber;EVA	1
-Full-grain leather;Leather	209
-Nylon;Rubber	81
-Leather;Mesh;Nubuck	32
-Suede;Tweed	2
-Cork;Leather;Rubber	2
-Leather;Mesh;Nubuck;Suede	17
-Canvas;Leather;Suede	38
-Latex;Neoprene;Rubber	3
 Exotic;Lace;Leather	1
-Jute;Linen;Rubber	6
-Mesh;Nubuck;Suede	6
-Leather;Nappa;Patent Leather;Satin	7
-Canvas;Lace;Synthetic	15
 Cordura	1
-Faux Leather;Leather;Rubber;Synthetic	5
 Felt;Leather;Nubuck;Rubber;Wool	1
-Faux Leather;Neoprene;Nylon;Rubber;Synthetic	7
-Mesh;Patent Leather	3
-Canvas;Cotton;Jute;Rubber;Suede	8
-Leather;Patent Leather;Synthetic	7
-Faux Leather;Patent Leather	6
-Fleece;Wool	8
-Mesh;Rubber;Synthetic	998
-Leather;Nappa;Patent Leather	2
-Shearling;Synthetic	5
-Mesh;Nubuck;Rubber;Suede	2
-Canvas;Nylon;Rubber	4
 Canvas;Leather;Nubuck;Synthetic	1
 Canvas;Lace;Leather;Rubber;Tweed	1
-Leather;Shearling	23
-Suede;Wool	27
-Leather;Rubber;Shearling;Suede	4
-Cotton;Polyester;Suede	2
-Jute;Synthetic	9
 Full-grain leather;Nubuck;Suede;Wool	1
-Lace;Leather;Rubber	116
 Hair Calf;EVA	1
-Canvas;Rubber;EVA	3
-Mesh;Neoprene;Rubber	2
 Leather;Ostrich;Rubber;Synthetic	1
 Cordura;Rubber	1
-Full-grain leather;Lace;Leather;Mesh;Nylon;Rubber	3
-Mesh;Ripstop;Synthetic	4
-Hair Calf;Leather;Rubber;EVA	7
 Canvas;Mesh;Rubber;Suede	1
-Lace;Leather;Suede;EVA	2
-Rubber;Wool	7
-Leather;Mesh;Rubber	129
-Rubber;Terry	7
 Fleece;Leather;Nubuck;Faux Fur	1
-Jute;Nubuck	2
-Microfiber;Nylon;Rubber	2
-Nubuck;Nylon;Polyester;Rubber	2
 Cork;Polyester;Rubber	1
-Faux Leather;Leather;Mesh;Rubber	4
-Lace;Rubber;Wool	2
-Patent Leather;Suede;Synthetic	12
-Cable Knit;Wool	5
-Faux Leather;Mesh;Rubber;Synthetic	3
-Corduroy	47
-Jute	10
-Velour	49
-Fleece;Faux Fur;Suede	6
 Canvas;Faux Leather;Mesh;Nylon;Rubber;Synthetic	1
-Nylon;Wool	2
 Fleece;Lace;Microfiber;Rubber	1
-Lace;Mesh	4
-Crocodile ;Hair Calf;Leather;Rubber	4
 Leather;Nylon;Rubber;Ripstop	1
-Leather;Nylon;Rubber;Synthetic	2
 Nubuck;Nylon;Rubber;Suede	1
-Cotton;Rubber;Velour	3
-Rubber;Suede;Synthetic	7
 Leather;Nubuck;Rubber;Shearling	1
-Lace;Leather	61
-Neoprene	20
-Canvas;Suede	192
 Canvas;Leather;Mesh;Nylon;Rubber;Suede	1
-Lambskin	2
-Canvas;Lace	10
-Fleece;Leather;Faux Fur;Rubber;Suede	2
 Mesh;Nubuck;Suede;Synthetic	1
-Leather;Nubuck;Nylon	10
 Faux Leather;Leather;Nubuck;Rubber;Suede;Synthetic	1
-Cotton;Rubber;Synthetic	8
-Canvas;Shearling	12
 Deerskin;Hair Calf;Leather	1
-Leather;Nubuck;Wool	2
-Felt;Synthetic	3
-Leather;Mesh;Suede	34
-Leather;EVA	7
 Cork;EVA	1
-Leather;Nubuck;Rubber;Suede	14
-Patent Leather;Suede	60
-Canvas;Cork	4
-Canvas;Faux Leather;Leather;Suede;Synthetic	6
 Canvas;Felt;Rubber	1
-Felt;Latex;Wool	15
 Tweed	1
-Nubuck;Suede	48
-Canvas;Shearling;Suede;EVA	2
-Nylon;Faux Fur;Ripstop	3
 Leather;Neoprene;Nappa	1
-Faux Leather;Rubber;Suede;Synthetic	6
-Leather;Nylon;Rubber;Suede	10
 Cotton;Terry	1
-Faux Leather;Mesh;Nylon;Rubber;Synthetic	6
-Leather;Mesh;Suede;Synthetic	4
-Canvas;Patent Leather	2
-Lace;Leather;Rubber;Suede;Synthetic	3
-Leather;Nubuck;Faux Fur	5
-Leather;Nubuck;Rubber;Shearling;Synthetic	2
-Nylon;Suede	133
-Fleece;Nylon;Synthetic	2
-Faux Leather;Mesh;Rubber	2
-Faux Leather;Faux Fur;Rubber;Synthetic;EVA	2
-Canvas;Synthetic	29
-Fleece;Nylon;Rubber	11
-Canvas;Nubuck	5
 Chiffon;Cordura;Nylon;Rubber;Suede	1
 Faux Leather;Mesh;Nubuck;Shearling	1
-Leather;Nappa;Suede	17
-Lace;Suede;Synthetic	8
 Full-grain leather;Shearling;Suede	1
 Fleece;Nylon;Rubber;EVA	1
 Cork;Suede;EVA	1
-Leather;Nylon;Rubber	63
-Faux Leather;Leather;Suede	5
-Full-grain leather;Leather;Nylon;Rubber	15
-Nylon;Synthetic	87
-Faux Leather;Lace	2
-Full-grain leather;Leather;Nubuck;Suede	9
-Aluminum;Synthetic	5
-Leather;Rubber;EVA	18
-Latex;Wool	3
-Raffia	5
-Leather;Faux Fur;Rubber	6
-Leather;Nylon;Rubber;Suede;Synthetic	5
-Cordura;Nubuck	3
-Canvas;Nylon;Suede	4
-Faux Fur;Velvet	3
-Leather;Rubber;Suede	157
-Jute;Leather;Nubuck	3
-Nubuck;Rubber;Synthetic	22
 Leather;Nappa;Nubuck;Rubber;Shearling;Suede	1
-Mesh;Polyester;Suede	2
-Snakeskin	5
-Lace;Leather;Mesh;Rubber;Suede	4
-Canvas;Full-grain leather	22
-Canvas;Cotton;Leather	11
-Faux Suede;Synthetic	2
-Rubber;Sheepskin	2
-Canvas;Cotton;Mesh	3
-Microfiber;Synthetic	8
-Nylon;Polyester;Rubber	16
 Canvas;Jute;Rubber	1
 Fleece;Nylon;Faux Fur;Rubber;Suede	1
-Fleece;Polyester	22
 Lambskin;Sheepskin;Suede	1
 Nylon;Polyester;Rubber;Synthetic	1
-Linen;Leather;Rubber;Suede	11
 Nylon;Polyester;Rubber;Ripstop	1
 Deerskin;Sheepskin;Wool	1
-Faux Leather;Full-grain leather;Leather;Nubuck;Suede;Synthetic	11
-Lace;Synthetic	10
 Terry;Wool	1
-Cotton;Leather;Suede	2
-Mesh;Nubuck;Nylon;Rubber;Suede	6
 Satin;Silk	1
 Cotton;Lace;Leather;EVA	1
-Chiffon;Silk	3
-Cotton;Mesh	2
-Lace;Mesh;Nylon;Rubber;Suede;Synthetic	3
-Hemp;Nubuck	2
-Synthetic;Velvet	10
-Cordura;Nylon;Rubber	10
 Leather;Nubuck;Nylon;Rubber;Wool	1
-Leather;Nylon	75
-Leather;Wool	16
-Mesh;Nylon;Suede	22
-Polyester	44
-Leather;Mesh;Satin	5
-Jute;EVA	2
-Lace;Leather;Rubber;Wool	2
-Leather;Microfiber;Rubber;EVA	3
-Canvas;Leather;Mesh	3
-Hair Calf	137
-Nubuck;Velvet	3
-Lace;Leather;Rubber;Synthetic	22
-Shearling;EVA	2
-Full-grain leather;Nubuck	7
-Canvas;Leather;Nubuck;Rubber;Suede	2
 Leather;Mesh;Nappa	1
-Leather;Faux Fur;Synthetic	8
-Nappa;Suede	5
 Lace;Leather;Satin;Synthetic	1
-Faux Leather;Nylon;Synthetic	5
-Leather;Patent Leather	214
-Leather;Suede	1112
 Microfiber;Polyester;Rubber;Ripstop	1
-Sheepskin;Suede	170
-Full-grain leather;Rubber	37
-Lace;Mesh;Rubber;Suede	8
 Full-grain leather;Faux Fur;Suede	1
-Sheepskin	167
-Lace;Mesh;Rubber	3
 Fleece;Leather;Mesh;Nubuck;Suede	1
 Corduroy;Shearling	1
