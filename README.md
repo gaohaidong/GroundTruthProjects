@@ -19,5 +19,7 @@ project(pytorch): https://github.com/gaohaidong/pix2pixHD \
 project: https://github.com/gaohaidong/pytorch-CycleGAN-and-pix2pix \
 .5 SIMS (CVPR2018) \
 projects(tensorflow):https://github.com/gaohaidong/SIMS \
+.6 StarGAN  \
+https://github.com/yunjey/StarGAN \
 
 
