@@ -21,6 +21,7 @@ project: https://github.com/gaohaidong/pytorch-CycleGAN-and-pix2pix \
 projects(tensorflow):https://github.com/gaohaidong/SIMS \
 .6 StarGAN  \
 https://github.com/yunjey/StarGAN \
-.7 GAN与合成
+.7 GAN与合成 \
 https://www.leiphone.com/news/201805/nTn6rxKw95uTAeQQ.html \
-
+.8 iGAN(Good UI) \
+https://github.com/junyanz/iGAN \
