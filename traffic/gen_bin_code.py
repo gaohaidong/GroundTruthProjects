@@ -159,10 +159,8 @@ def scan_qr_code(imgPath):
         data += s.data
     del img
     print len(data)
-    bin_data = ''
-    for num in data.split(','):
-        bin_data += str(bin(int(num)))[2:].zfill(32)
-    return bin_data
+    return data
+    
 
 def get_res_order(examplefile):
     im_names = []
@@ -172,13 +170,16 @@ def get_res_order(examplefile):
                 im_names.append(line.split(',')[0])
     return im_names
     
-def decode_bin_data(bin_data, bit_num, im_names):
-    str = ''
+def decode_bin_data(data, bit_num, im_names):
+    bin_data = ''
+    for num in data.split(','):
+        bin_data += str(bin(int(num)))[2:].zfill(32)
+    res_str = ''
     id = 0
     while bin_data != '':
         print int(bin_data[:bit_num[0]], 2)
         if int(bin_data[:bit_num[0]], 2) > 0:
-            str += im_names[id] + ','
+            res_str += im_names[id] + ','
             box_num = int(bin_data[:bit_num[0]], 2)
             bin_data = bin_data[bit_num[0]:]
             for i in range(box_num):
@@ -190,9 +191,9 @@ def decode_bin_data(bin_data, bit_num, im_names):
                 bin_data = bin_data[bit_num[3]:]
                 h = int(bin_data[:bit_num[4]], 2)
                 bin_data = bin_data[bit_num[4]:]
-                str += '{}_{}_{}_{};'.format(x,y,w,h)
-            str = str[:-1] + '\n'
-            print str
+                res_str += '{}_{}_{}_{};'.format(x,y,w,h)
+            res_str = res_str[:-1] + '\n'
+            print res_str
         else:
             print im_names[id]
         id += 1
@@ -208,7 +209,9 @@ if __name__ == '__main__':
     # gen_qr_imgs(chr_codes)
     # imlist = [cv2.imread('qrimgs/{}.png'.format(i)) for i in range(1, 1125)]
     # image_cascade(imlist, [7,7])
-    bin_data = scan_qr_code('a.PNG')
+    data = scan_qr_code('a.PNG')
+    data += scan_qr_code('b.PNG')
+    print data
     im_names = get_res_order('example_a.csv')
-    decode_bin_data(bin_data, bit_num, im_names)
+    decode_bin_data(data, bit_num, im_names)
     
