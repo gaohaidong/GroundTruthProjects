@@ -1,3 +1,3 @@
 
-2017_TIP_LIME Low-Light Image Enhancement via Illumination Map Estimation.pdf
+2017_TIP_LIME Low-Light Image Enhancement via Illumination Map Estimation.pdf \
 LLNET https://bitbucket.org/kglore/llnet-color/src/master/
