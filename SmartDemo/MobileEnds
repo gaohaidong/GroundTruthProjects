@@ -21,31 +21,29 @@
   https://blog.csdn.net/sanallen/article/details/78951686 \
 9.资源sourcing \
 名称	用途	价格（元）	链接	来源	备注
-微型PVC皮带机	物件传送	150	https://item.jd.com/14231231210.html 	京东	
-ZED 双目3D立体相机	图像采集	3998	https://item.jd.com/11676604768.html 	京东	分辨率、帧率/行帧、像元尺寸、传感器尺寸、焦距、物距、光学放大倍率、工作距离、曝光时间、视场角、靶面尺寸、精度、景深
-500万像素 工业相机	图像采集	275	https://item.taobao.com/item.htm?id=529567118777&ali_refid=a3_430582_1006:1123515540:N:%E5%B7%A5%E4%B8%9A%E7%9B%B8%E6%9C%BA:8db94ac900e24d37d6ebc4c6e5247396&ali_trackid=1_8db94ac900e24d37d6ebc4c6e5247396&spm=a230r.1.14.8#detail	淘宝	CMOS，XX
-GY-GE500C	"图像采集
--面阵相机"	1850	https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-14968000061.33.34ce4615Hbe1C8&id=565026468291	淘宝	CMOS，2592x1944，15fps，彩色
-2048x9420 CCD	"图像采集
--线阵相机"	2150	https://item.taobao.com/item.htm?spm=a230r.1.14.244.3f475e98AcmmET&id=41888405334&ns=1&abbucket=8#detail	淘宝	CCD，2048x9420
-130万像素 Basler acA1300-30gm	"图像采集
+[微型PVC皮带机](https://item.jd.com/14231231210.html)	物件传送	150	 	京东	
+[ZED 双目3D立体相机	图像采集	3998	https://item.jd.com/11676604768.html 	京东	分辨率、帧率/行帧、像元尺寸、传感器尺寸、焦距、物距、光学放大倍率、工作距离、曝光时间、视场角、靶面尺寸、精度、景深
+[500万像素 工业相机	图像采集	275	https://item.taobao.com/item.htm?id=529567118777&ali_refid=a3_430582_1006:1123515540:N:%E5%B7%A5%E4%B8%9A%E7%9B%B8%E6%9C%BA:8db94ac900e24d37d6ebc4c6e5247396&ali_trackid=1_8db94ac900e24d37d6ebc4c6e5247396&spm=a230r.1.14.8#detail	淘宝	CMOS，XX
+[GY-GE500C	"图像采集-面阵相机"	1850	https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-14968000061.33.34ce4615Hbe1C8&id=565026468291	淘宝	CMOS，2592x1944，15fps，彩色
+[2048x9420 CCD	"图像采集-线阵相机"	2150	https://item.taobao.com/item.htm?spm=a230r.1.14.244.3f475e98AcmmET&id=41888405334&ns=1&abbucket=8#detail	淘宝	CCD，2048x9420
+[130万像素 Basler acA1300-30gm	"图像采集
 -面阵相机"	1400	https://item.taobao.com/item.htm?spm=a230r.1.14.10.49ba5e7bKHmBzn&id=571507762721&ns=1&abbucket=8#detail	淘宝	CMOS，1296x966，30fps，黑白
-"130万像素 Basler 
+["130万像素 Basler 
 acA1300-22gc"	"图像采集
 -面阵相机"	1800	https://item.taobao.com/item.htm?spm=a230r.1.14.19.1e32fdfaLwP8y4&id=567299481386&ns=1&abbucket=8#detail	淘宝	CMOS，1296x966，22fps，彩色
-acA1300-200um	"图像采集
+[acA1300-200um	"图像采集
 -面阵相机"	5100	https://item.taobao.com/item.htm?spm=a230r.1.14.8.40866af8WUyRb1&id=521181562875&ns=1&abbucket=8#detail	淘宝	CMOS，130万像素(1280x1024), 200fps, 彩色，C-mount
-C125-0818-5M 巴斯勒	"图像采集
+[C125-0818-5M 巴斯勒	"图像采集
 -相机镜头"	900	https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17850806492.22.109f7564fBIxDi&id=557156303964	淘宝	500万像素，8mm，F1.8-22，C-mount
-raspberry树莓派3b+传感器开发板入门套件	芯片控制	1060	https://item.jd.com/29012117402.html	京东	
-raspberry树莓派3b+入门传感器开发板套件	芯片控制	965	https://item.taobao.com/item.htm?id=559764428517&ali_refid=a3_430673_1006:1121866132:N:%E6%A0%91%E8%8E%93%E6%B4%BE%E5%A5%97%E4%BB%B6:022095368f39fbf736f0345dd3f5e102&ali_trackid=1_022095368f39fbf736f0345dd3f5e102&spm=a2e15.8261149.07626516002.8	淘宝	
-C8051F380 开发板	芯片控制	49	https://item.taobao.com/item.htm?id=538332532778&_u=t2dmg8j26111	淘宝	
-51单片机开发板	芯片控制	199	https://item.jd.com/25947635693.html	京东	
-Movidius 神经计算棒 	网络计算	599	https://item.jd.com/5725817.html	京东	
-Jeston TX2核心版	网络计算	3500	https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18244920215.36.7e6b35830TjFpS&id=554321728639	淘宝	
-Jeston TX2核心版	网络计算	4699	https://item.jd.com/30761100936.html	京东	
-Jeston TX2套装	网络计算	5199	https://item.jd.com/30761100936.html	京东	
-Jeston Xavier开发板	网络计算	13999	https://item.jd.com/30761100936.html	京东	
-"麦克纳姆轮 智能小车
-Master Robot"	Demo展示	2499	https://item.jd.com/28036798018.html	京东	
+[raspberry树莓派3b+传感器开发板入门套件	芯片控制	1060	https://item.jd.com/29012117402.html	京东	
+[raspberry树莓派3b+入门传感器开发板套件	芯片控制	965	https://item.taobao.com/item.htm?id=559764428517&ali_refid=a3_430673_1006:1121866132:N:%E6%A0%91%E8%8E%93%E6%B4%BE%E5%A5%97%E4%BB%B6:022095368f39fbf736f0345dd3f5e102&ali_trackid=1_022095368f39fbf736f0345dd3f5e102&spm=a2e15.8261149.07626516002.8	淘宝	
+[C8051F380 开发板	芯片控制	49	https://item.taobao.com/item.htm?id=538332532778&_u=t2dmg8j26111	淘宝	
+[51单片机开发板	芯片控制	199	https://item.jd.com/25947635693.html	京东	
+[Movidius 神经计算棒 	网络计算	599	https://item.jd.com/5725817.html	京东	
+[Jeston TX2核心版	网络计算	3500	https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18244920215.36.7e6b35830TjFpS&id=554321728639	淘宝	
+[Jeston TX2核心版	网络计算	4699	https://item.jd.com/30761100936.html	京东	
+[Jeston TX2套装	网络计算	5199	https://item.jd.com/30761100936.html	京东	
+[Jeston Xavier开发板	网络计算	13999	https://item.jd.com/30761100936.html	京东	
+["麦克纳姆轮 智能小车
+[Master Robot"	Demo展示	2499	https://item.jd.com/28036798018.html	京东	
 
