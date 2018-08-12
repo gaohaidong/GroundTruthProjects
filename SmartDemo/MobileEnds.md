@@ -21,7 +21,8 @@
   https://blog.csdn.net/sanallen/article/details/78951686 \
 9.资源sourcing \
 名称	用途	价格（元）	链接	来源	备注
-[微型PVC皮带机] (https://item.jd.com/14231231210.html) 	物件传送	150	 	京东
+
+[微型PVC皮带机](https://item.jd.com/14231231210.html) 	物件传送	150	 	京东
 
 [ZED 双目3D立体相机](https://item.jd.com/11676604768.htm)	图像采集	3998	l 	京东	分辨率、帧率/行帧、像元尺寸、传感器尺寸、焦距、物距、光学放大倍率、工作距离、曝光时间、视场角、靶面尺寸、精度、景深
 
