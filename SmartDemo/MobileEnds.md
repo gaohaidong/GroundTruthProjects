@@ -25,6 +25,9 @@
 >>## 6.EasyIOT
 >>>http://www.easylinker.xyz/
 
+>>## 7.创造师导航
+>>>http://chuangzaoshi.com/
+
   
 3.DL框架-caffe2 \
   3.1 caffe2的介绍 \
