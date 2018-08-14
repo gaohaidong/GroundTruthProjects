@@ -30,7 +30,8 @@
   https://www.lfd.uci.edu/~gohlke/pythonlibs/ \
   3.2 HI3516D之Caffe2移植 \
   https://blog.csdn.net/sanallen/article/details/78951686 \
-9.资源sourcing \
+
+># 资源sourcing \
 名称	用途	价格（元）	链接	来源	备注
 
 [微型PVC皮带机](https://item.jd.com/14231231210.html) 	物件传送	150	 	京东
