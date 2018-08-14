@@ -31,11 +31,12 @@
   3.2 HI3516D之Caffe2移植 \
   https://blog.csdn.net/sanallen/article/details/78951686 \
 
-># 资源sourcing \
+># 资源sourcing
 名称	用途	价格（元）	链接	来源	备注
 
 [微型PVC皮带机](https://item.jd.com/14231231210.html) 	物件传送	150	 	京东
 
+>>## 图像采集
 [ZED 双目3D立体相机](https://item.jd.com/11676604768.htm)	图像采集	3998	l 	京东	分辨率、帧率/行帧、像元尺寸、传感器尺寸、焦距、物距、光学放大倍率、工作距离、曝光时间、视场角、靶面尺寸、精度、景深
 
 [500万像素 工业相机](https://item.taobao.com/item.htm?id=529567118777&ali_refid=a3_430582_1006:1123515540:N:%E5%B7%A5%E4%B8%9A%E7%9B%B8%E6%9C%BA:8db94ac900e24d37d6ebc4c6e5247396&ali_trackid=1_8db94ac900e24d37d6ebc4c6e5247396&spm=a230r.1.14.8#detail)	图像采集	275		淘宝	CMOS，XX
@@ -52,6 +53,7 @@
 
 [C125-0818-5M 巴斯勒](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17850806492.22.109f7564fBIxDi&id=557156303964)	"图像采集-相机镜头"	900		淘宝	500万像素，8mm，F1.8-22，C-mount
 
+>>## 芯片控制
 [raspberry树莓派3b+传感器开发板入门套件](https://item.jd.com/29012117402.html)	芯片控制	1060		京东	
 
 [raspberry树莓派3b+入门传感器开发板套件](https://item.taobao.com/item.htm?id=559764428517&ali_refid=a3_430673_1006:1121866132:N:%E6%A0%91%E8%8E%93%E6%B4%BE%E5%A5%97%E4%BB%B6:022095368f39fbf736f0345dd3f5e102&ali_trackid=1_022095368f39fbf736f0345dd3f5e102&spm=a2e15.8261149.07626516002.8)	芯片控制	965		淘宝	
@@ -60,6 +62,7 @@
 
 [51单片机开发板](https://item.jd.com/25947635693.html)	芯片控制	199		京东	
 
+>>## 网络计算
 [Movidius 神经计算棒](https://item.jd.com/5725817.html) 	网络计算	599		京东	
 
 [Jeston TX2核心版](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-18244920215.36.7e6b35830TjFpS&id=554321728639)	网络计算	3500		淘宝	
