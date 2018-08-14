@@ -38,21 +38,16 @@
 
 >>## 图像采集
 >>>### 光源架设
->>>### 相机假设
+>>>### 相机架设
 >>>### 线阵相机
 [2048x9420 CCD](https://item.taobao.com/item.htm?spm=a230r.1.14.244.3f475e98AcmmET&id=41888405334&ns=1&abbucket=8#detail)	"图像采集-线阵相机"	2150		淘宝	CCD，2048x9420
 >>>### 面阵相机
-[ZED 双目3D立体相机](https://item.jd.com/11676604768.htm)	图像采集	3998	l 	京东	分辨率、帧率/行帧、像元尺寸、传感器尺寸、焦距、物距、光学放大倍率、工作距离、曝光时间、视场角、靶面尺寸、精度、景深
-
-[500万像素 工业相机](https://item.taobao.com/item.htm?id=529567118777&ali_refid=a3_430582_1006:1123515540:N:%E5%B7%A5%E4%B8%9A%E7%9B%B8%E6%9C%BA:8db94ac900e24d37d6ebc4c6e5247396&ali_trackid=1_8db94ac900e24d37d6ebc4c6e5247396&spm=a230r.1.14.8#detail)	图像采集	275		淘宝	CMOS，XX
-
-[GY-GE500C](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-14968000061.33.34ce4615Hbe1C8&id=565026468291)	"图像采集-面阵相机"	1850		淘宝	CMOS，2592x1944，15fps，彩色
-
-[130万像素 Basler acA1300-30gm](https://item.taobao.com/item.htm?spm=a230r.1.14.10.49ba5e7bKHmBzn&id=571507762721&ns=1&abbucket=8#detail)	"图像采集-面阵相机"	1400		淘宝	CMOS，1296x966，30fps，黑白
-
-["130万像素 Basler acA1300-22gc"](https://item.taobao.com/item.htm?spm=a230r.1.14.19.1e32fdfaLwP8y4&id=567299481386&ns=1&abbucket=8#detail)	"图像采集-面阵相机"	1800		淘宝	CMOS，1296x966，22fps，彩色
-
-[acA1300-200um](https://item.taobao.com/item.htm?spm=a230r.1.14.8.40866af8WUyRb1&id=521181562875&ns=1&abbucket=8#detail)	"图像采集-面阵相机"	5100		淘宝	CMOS，130万像素(1280x1024), 200fps, 彩色，C-mount
+>>>>[ZED 双目3D立体相机](https://item.jd.com/11676604768.htm)	图像采集	3998	l 	京东	分辨率、帧率/行帧、像元尺寸、传感器尺寸、焦距、物距、光学放大倍率、工作距离、曝光时间、视场角、靶面尺寸、精度、景深
+>>>>[500万像素 工业相机](https://item.taobao.com/item.htm?id=529567118777&ali_refid=a3_430582_1006:1123515540:N:%E5%B7%A5%E4%B8%9A%E7%9B%B8%E6%9C%BA:8db94ac900e24d37d6ebc4c6e5247396&ali_trackid=1_8db94ac900e24d37d6ebc4c6e5247396&spm=a230r.1.14.8#detail)	图像采集	275		淘宝	CMOS，XX
+>>>>[GY-GE500C](https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-14968000061.33.34ce4615Hbe1C8&id=565026468291)	"图像采集-面阵相机"	1850		淘宝	CMOS，2592x1944，15fps，彩色
+>>>>[130万像素 Basler acA1300-30gm](https://item.taobao.com/item.htm?spm=a230r.1.14.10.49ba5e7bKHmBzn&id=571507762721&ns=1&abbucket=8#detail)	"图像采集-面阵相机"	1400		淘宝	CMOS，1296x966，30fps，黑白
+>>>>["130万像素 Basler acA1300-22gc"](https://item.taobao.com/item.htm?spm=a230r.1.14.19.1e32fdfaLwP8y4&id=567299481386&ns=1&abbucket=8#detail)	"图像采集-面阵相机"	1800		淘宝	CMOS，1296x966，22fps，彩色
+>>>>[acA1300-200um](https://item.taobao.com/item.htm?spm=a230r.1.14.8.40866af8WUyRb1&id=521181562875&ns=1&abbucket=8#detail)	"图像采集-面阵相机"	5100		淘宝	CMOS，130万像素(1280x1024), 200fps, 彩色，C-mount
 >>>### 相机镜头
 [C125-0818-5M 巴斯勒](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-17850806492.22.109f7564fBIxDi&id=557156303964)	"图像采集-相机镜头"	900		淘宝	500万像素，8mm，F1.8-22，C-mount
 
