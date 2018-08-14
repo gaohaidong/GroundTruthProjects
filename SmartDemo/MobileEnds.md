@@ -1,5 +1,5 @@
 ># 创客小坊
->>## 树莓派
+>>## 1.微型PC--树莓派
 >>>### [树莓派实验室](http://shumeipai.nxez.com/)
 >>>>#### [树莓派+nodejs打造物联网图传控制履带车](https://github.com/zexiplus/WALL.E)
 >>>>#### [二值网络运行在树莓派上](http://www.sohu.com/a/128917433_257855)
@@ -7,10 +7,11 @@
 >>>>#### [Pi Dashboard：给你的派装一个仪表盘](https://github.com/spoonysonny/pi-dashboard)
 >>>### [树莓派你画AI猜:树莓派 + 深度学习 + Python](https://blog.csdn.net/weixin_40986174/article/details/80223626)
 
->>## ARDUINO
+>>## 2.微控制器--ARDUINO
 >>>### [ARDUINO实验室](http://arduino.nxez.com/)
 
->>## [NXEZ](http://www.nxez.com/products)
+>>## 3.NXEZ
+>>>### [NXEZ](http://www.nxez.com/products)
 >>>### [创客百科](http://wiki.nxez.com/)
 >>>### [创客商店](https://shop67187987.taobao.com/)
 
@@ -18,7 +19,7 @@
 
 >>## 智能小车
 >>>### [机械臂+麦克纳姆轮小车](https://www.arduino.cn/thread-23162-1-1.html)
-http://shumeipai.nxez.com/2017/08/31/pi-dashboard-released.html \
+>>>http://shumeipai.nxez.com/2017/08/31/pi-dashboard-released.html \
   
 3.DL框架-caffe2 \
   3.1 caffe2的介绍 \
