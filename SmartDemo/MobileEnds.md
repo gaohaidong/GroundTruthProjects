@@ -1,28 +1,25 @@
 ># 创客小坊
->>### [树莓派实验室](http://shumeipai.nxez.com/)
->>### [ARDUINO实验室](http://arduino.nxez.com/)
->>### [NXEZ](http://www.nxez.com/products)
->>>#### [创客百科](http://wiki.nxez.com/)
->>>#### [创客商店](https://shop67187987.taobao.com/)
->>### [趣无尽](http://www.quwj.com/)
+>>## 树莓派
+>>>### [树莓派实验室](http://shumeipai.nxez.com/)
+>>>>#### [树莓派+nodejs打造物联网图传控制履带车](https://github.com/zexiplus/WALL.E)
+>>>>#### [二值网络运行在树莓派上](http://www.sohu.com/a/128917433_257855)
+>>>>#### [PWM控制](https://blog.csdn.net/offbye/article/details/47047947)
+>>>>#### [Pi Dashboard：给你的派装一个仪表盘](https://github.com/spoonysonny/pi-dashboard)
+>>>### [树莓派你画AI猜:树莓派 + 深度学习 + Python](https://blog.csdn.net/weixin_40986174/article/details/80223626)
 
+>>## ARDUINO
+>>>### [ARDUINO实验室](http://arduino.nxez.com/)
 
+>>## [NXEZ](http://www.nxez.com/products)
+>>>### [创客百科](http://wiki.nxez.com/)
+>>>### [创客商店](https://shop67187987.taobao.com/)
 
-1.树莓派 \
-  1.1 从零开始做一个你画AI猜的小游戏 【树莓派 + 深度学习 + Python】\
-  https://blog.csdn.net/weixin_40986174/article/details/80223626 \
-  1.2 树莓派+nodejs打造物联网图传控制履带车 \
-  https://github.com/zexiplus/WALL.E \
-  1.3 Pi Dashboard：给你的派装一个仪表盘 \
-  https://github.com/spoonysonny/pi-dashboard \
-  1.4 二值网络运行在树莓派上 \
-  http://www.sohu.com/a/128917433_257855 \
-  1.5 PWM控制 \
-  https://blog.csdn.net/offbye/article/details/47047947 \
-2.智能小车 \
-  1.1 机械臂+麦克纳姆轮小车 \
-  https://www.arduino.cn/thread-23162-1-1.html \
-  http://shumeipai.nxez.com/2017/08/31/pi-dashboard-released.html \
+>>## [趣无尽](http://www.quwj.com/)
+
+>>## 智能小车
+>>>### [机械臂+麦克纳姆轮小车](https://www.arduino.cn/thread-23162-1-1.html)
+http://shumeipai.nxez.com/2017/08/31/pi-dashboard-released.html \
+  
 3.DL框架-caffe2 \
   3.1 caffe2的介绍 \
   https://www.jianshu.com/p/5c0fd1c9fef9?from=timeline \
