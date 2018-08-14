@@ -22,6 +22,8 @@
 >>## 5.趣无尽
 >>>http://www.quwj.com/
 
+>>## 6.EasyIOT
+>>>http://www.easylinker.xyz/
 
   
 3.DL框架-caffe2 \
