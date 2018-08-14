@@ -1,3 +1,13 @@
+## 创客小坊
+### [树莓派实验室](http://shumeipai.nxez.com/)
+### [ARDUINO实验室](http://arduino.nxez.com/)
+### [NXEZ](http://www.nxez.com/products)
+#### [创客百科](http://wiki.nxez.com/)
+#### [创客商店](https://shop67187987.taobao.com/)
+### [趣无尽](http://www.quwj.com/)
+
+
+
 1.树莓派 \
   1.1 从零开始做一个你画AI猜的小游戏 【树莓派 + 深度学习 + Python】\
   https://blog.csdn.net/weixin_40986174/article/details/80223626 \
