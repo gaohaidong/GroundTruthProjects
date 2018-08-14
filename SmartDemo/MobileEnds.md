@@ -10,16 +10,19 @@
 >>## 2.微控制器--ARDUINO
 >>>### [ARDUINO实验室](http://arduino.nxez.com/)
 
->>## 3.NXEZ
+>>## 3.智能小车
+>>>### [机械臂+麦克纳姆轮小车](https://www.arduino.cn/thread-23162-1-1.html)
+>>>http://shumeipai.nxez.com/2017/08/31/pi-dashboard-released.html \
+
+>>## 4.NXEZ
 >>>### [NXEZ](http://www.nxez.com/products)
 >>>### [创客百科](http://wiki.nxez.com/)
 >>>### [创客商店](https://shop67187987.taobao.com/)
 
->>## [趣无尽](http://www.quwj.com/)
+>>## 5.趣无尽
+>>>http://www.quwj.com/
 
->>## 智能小车
->>>### [机械臂+麦克纳姆轮小车](https://www.arduino.cn/thread-23162-1-1.html)
->>>http://shumeipai.nxez.com/2017/08/31/pi-dashboard-released.html \
+
   
 3.DL框架-caffe2 \
   3.1 caffe2的介绍 \
