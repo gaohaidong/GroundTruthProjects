@@ -16,6 +16,8 @@
 >>## 这篇工作应该已经看过了~
 ># **Rank53-round1**
 >>## https://github.com/nlceyes/TianChi-XueLang
+># ** 徐勇、游剑 **
+>>## https://github.com/Msword9465/Tianchi-Competition
 ># yuhaitao, 1994
 >>## https://github.com/yuhaitao1994/Tianchi_xuelangAI_ResNet50withSlim
 ># LiXin-Ren
