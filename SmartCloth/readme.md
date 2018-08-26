@@ -1,5 +1,5 @@
 ># 学习下其他小伙伴的做法
-># Rank9-round1: 资料待整理，可参考其他代码
+># **Rank9-round1: 资料待整理，可参考其他代码**
 >>## https://github.com/maozezhong/TIANCHI_XUELANG_AI
 ># **Rank28-round1: 锐捷智慧教室团队（郑智雄、吴宏和、黄杰）**
 >>## https://github.com/lightfate/XueLang-YOLOhasst
@@ -47,7 +47,5 @@
 >>## https://github.com/akudet/tianchi-xuelang
 ># Ref2
 >>## https://github.com/tuofeilunhifi/xuelang-AI-competition/tree/master/preliminary
-># maozehong
->>## https://github.com/maozezhong/TIANCHI_XUELANG_AI
 ># 徐勇、游剑
 >>## https://github.com/Msword9465/Tianchi-Competition
