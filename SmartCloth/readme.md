@@ -37,7 +37,7 @@
 >>## 这篇工作应该已经看过了~
 ># **04.Rank53-round1**
 >>## https://github.com/nlceyes/TianChi-XueLang
-># **05.Gabor**
+># **05.Sobel Edge**
 >>## https://github.com/tc-qaq/Xuelang_Tianchi
 ># yuhaitao, 1994
 >>## https://github.com/yuhaitao1994/Tianchi_xuelangAI_ResNet50withSlim
