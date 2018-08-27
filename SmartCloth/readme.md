@@ -1,7 +1,7 @@
 ># 学习下其他小伙伴的做法
-># **Rank9-round1: 资料待整理，可参考其他代码**
+># **01.Rank9-round1: 资料待整理，可参考其他代码**
 >>## https://github.com/maozezhong/TIANCHI_XUELANG_AI
-># **Rank28-round1: 锐捷智慧教室团队（郑智雄、吴宏和、黄杰）**
+># **02.Rank28-round1: 锐捷智慧教室团队（郑智雄、吴宏和、黄杰）**
 >>## https://github.com/lightfate/XueLang-YOLOhasst
 >>## 方法一
 >>>### 1. 和我们的思路很像，整体用的是YOLO框架
@@ -32,11 +32,13 @@
 >>>>>##### Resize成800 * 600单独训练了一个模型 -> 0.914
 >>>>#### 局部全局
 >>>>>##### 两者结合 -> 0.952
-># **Rank32-round1**
+># **03.Rank32-round1**
 >>## https://github.com/bobo0810/XueLangTianchi
 >>## 这篇工作应该已经看过了~
-># **Rank53-round1**
+># **04.Rank53-round1**
 >>## https://github.com/nlceyes/TianChi-XueLang
+># **05.Gabor**
+>>## https://github.com/tc-qaq/Xuelang_Tianchi
 ># yuhaitao, 1994
 >>## https://github.com/yuhaitao1994/Tianchi_xuelangAI_ResNet50withSlim
 ># LiXin-Ren
